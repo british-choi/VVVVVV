@@ -1,424 +1,424 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Please read README.txt for information about the language files -->
 <strings>
-    <string english="LOADING... {percent|digits=2|spaces}%" translation="" explanation="on loading screen. {percent} = number from 0-100" max="26"/>
-    <string english="Game paused" translation="" explanation="pause screen" max="40"/>
-    <string english="[click to resume]" translation="" explanation="pause screen" max="40"/>
-    <string english="Press M to mute in game" translation="" explanation="pause screen" max="40"/>
-    <string english="Press N to mute music only" translation="" explanation="pause screen" max="40"/>
-    <string english="MAKE AND PLAY EDITION" translation="" explanation="" max="27"/>
-    <string english="[MMMMMM Mod Installed]" translation="" explanation="" max="32"/>
-    <string english="play" translation="" explanation="main menu option"/>
-    <string english="levels" translation="" explanation="main menu option"/>
-    <string english="options" translation="" explanation="main menu option"/>
-    <string english="translator" translation="" explanation="main menu option"/>
-    <string english="credits" translation="" explanation="main menu option"/>
-    <string english="quit" translation="" explanation="main menu option"/>
-    <string english="gameplay" translation="" explanation="options menu option"/>
-    <string english="Gameplay Options" translation="" explanation="title" max="20"/>
-    <string english="Adjust various gameplay settings." translation="" explanation="" max="38*5"/>
-    <string english="graphics" translation="" explanation="options menu option"/>
-    <string english="Graphics Options" translation="" explanation="title" max="20"/>
-    <string english="Adjust screen settings." translation="" explanation="" max="38*5"/>
-    <string english="audio" translation="" explanation="options menu option"/>
-    <string english="Audio Options" translation="" explanation="title" max="20"/>
-    <string english="Adjust volume settings and soundtrack." translation="" explanation="" max="38*5"/>
-    <string english="Adjust volume settings." translation="" explanation="" max="38*5"/>
-    <string english="continue" translation="" explanation="menu option"/>
-    <string english="continue from teleporter" translation="" explanation="menu option, game save that was made at a teleporter"/>
-    <string english="Tele Save" translation="" explanation="title, game save that was made at a teleporter" max="20"/>
-    <string english="continue from quicksave" translation="" explanation="menu option, game save that was made freely from the menu (at any checkpoint)"/>
-    <string english="Quick Save" translation="" explanation="title, game save that was made freely from the menu (at any checkpoint)" max="20"/>
-    <string english="proceed" translation="" explanation="menu option"/>
-    <string english="new game" translation="" explanation="menu option"/>
-    <string english="start new game" translation="" explanation="menu option, extra confirmation"/>
-    <string english="secret lab" translation="" explanation="menu option"/>
-    <string english="play modes" translation="" explanation="menu option"/>
-    <string english="ERROR: No levels found." translation="" explanation="" max="38*3"/>
-    <string english="ERROR: This level has no start point!" translation="" explanation="" max="38*5"/>
-    <string english="ERROR" translation="" explanation="title" max="20"/>
-    <string english="WARNING" translation="" explanation="title" max="20"/>
-    <string english="unlock play modes" translation="" explanation="menu option"/>
-    <string english="Unlock Play Modes" translation="" explanation="title" max="20"/>
-    <string english="Unlock parts of the game normally unlocked as you progress." translation="" explanation="" max="38*5"/>
-    <string english="From here, you may unlock parts of the game that are normally unlocked as you play." translation="" explanation="" max="38*5"/>
-    <string english="unlock ship jukebox" translation="" explanation="menu option"/>
-    <string english="unlock secret lab" translation="" explanation="menu option"/>
-    <string english="game pad" translation="" explanation="menu option"/>
-    <string english="Game Pad Options" translation="" explanation="title" max="20"/>
-    <string english="Game Pad" translation="" explanation="title" max="20"/>
-    <string english="Rebind your controller&apos;s buttons and adjust sensitivity." translation="" explanation="" max="38*5"/>
-    <string english="Change controller options." translation="" explanation="" max="38*2"/>
-    <string english="language" translation="" explanation="menu option"/>
-    <string english="Language" translation="" explanation="title" max="20"/>
-    <string english="Change the language." translation="" explanation="" max="38*5"/>
-    <string english="clear main game data" translation="" explanation="menu option"/>
-    <string english="clear custom level data" translation="" explanation="menu option"/>
-    <string english="Clear Data" translation="" explanation="title" max="20"/>
-    <string english="Delete your main game save data and unlocked play modes." translation="" explanation="" max="38*5"/>
-    <string english="Delete your custom level save data and completion stars." translation="" explanation="completion stars: when completing a level you get either 1 or 2 stars" max="38*5"/>
-    <string english="Are you sure? This will delete your current saves..." translation="" explanation="" max="38*7"/>
-    <string english="Are you sure you want to delete all your saved data?" translation="" explanation="" max="38*7"/>
-    <string english="Are you sure you want to delete your quicksave?" translation="" explanation="only the quicksave of a custom level" max="38*7"/>
-    <string english="no! don&apos;t delete" translation="" explanation="menu option"/>
-    <string english="yes, delete everything" translation="" explanation="menu option"/>
-    <string english="yes, delete save" translation="" explanation="menu option"/>
-    <string english="soundtrack" translation="" explanation="menu option"/>
-    <string english="Soundtrack" translation="" explanation="title" max="20"/>
-    <string english="Toggle between MMMMMM and PPPPPP." translation="" explanation="" max="38*2"/>
-    <string english="Current soundtrack: PPPPPP" translation="" explanation="" max="38*3"/>
-    <string english="Current soundtrack: MMMMMM" translation="" explanation="" max="38*3"/>
-    <string english="toggle fullscreen" translation="" explanation="menu option"/>
-    <string english="Toggle Fullscreen" translation="" explanation="title" max="20"/>
-    <string english="Change to fullscreen/windowed mode." translation="" explanation="" max="38*3"/>
-    <string english="Current mode: FULLSCREEN" translation="" explanation="" max="38*2"/>
-    <string english="Current mode: WINDOWED" translation="" explanation="" max="38*2"/>
-    <string english="scaling mode" translation="" explanation="menu option"/>
-    <string english="Scaling Mode" translation="" explanation="title" max="20"/>
-    <string english="Choose letterbox/stretch/integer mode." translation="" explanation="See the `Current mode` explanations for more details on the modes" max="38*3"/>
-    <string english="Current mode: INTEGER" translation="" explanation="integer (whole number) mode only enlarges the game in exact multiples of 320x240" max="38*2"/>
-    <string english="Current mode: STRETCH" translation="" explanation="stretch mode just stretches the game to fill the window content" max="38*2"/>
-    <string english="Current mode: LETTERBOX" translation="" explanation="letterbox mode enlarges the game to the window, but adds black bars to make the aspect ratio 4:3" max="38*2"/>
-    <string english="resize to nearest" translation="" explanation="menu option. The game will be resized to the closest multiple of the normal resolution, 320x240, so for example if your window is 682x493, it will resize to 640x480"/>
-    <string english="Resize to Nearest" translation="" explanation="title. The game will be resized to the closest multiple of the normal resolution, 320x240, so for example if your window is 682x493, it will resize to 640x480" max="20"/>
-    <string english="Resize to the nearest window size that is of an integer multiple." translation="" explanation="The game will be resized to the closest multiple of the normal resolution, 320x240, so for example if your window is 682x493, it will resize to 640x480" max="38*3"/>
-    <string english="You must be in windowed mode to use this option." translation="" explanation="The game cannot be in fullscreen to resize the window" max="38*2"/>
-    <string english="toggle filter" translation="" explanation="menu option"/>
-    <string english="Toggle Filter" translation="" explanation="title" max="20"/>
-    <string english="Change to nearest/linear filter." translation="" explanation="" max="38*3"/>
-    <string english="Current mode: LINEAR" translation="" explanation="" max="38*2"/>
-    <string english="Current mode: NEAREST" translation="" explanation="nearest neighbor filter" max="38*2"/>
-    <string english="toggle analogue" translation="" explanation="menu option, analogue mode simulates distortion from bad signal"/>
-    <string english="Analogue Mode" translation="" explanation="title, analogue mode simulates distortion from bad signal" max="20"/>
-    <string english="There is nothing wrong with your television set. Do not attempt to adjust the picture." translation="" explanation="" max="38*5"/>
-    <string english="toggle fps" translation="" explanation="menu option, kind of a misnomer, toggle between 30 FPS and more than 30 FPS"/>
-    <string english="Toggle 30+ FPS" translation="" explanation="title" max="20"/>
-    <string english="Change whether the game runs at 30 or over 30 FPS." translation="" explanation="" max="38*3"/>
-    <string english="Current mode: 30 FPS" translation="" explanation="" max="38*2"/>
-    <string english="Current mode: Over 30 FPS" translation="" explanation="" max="38*2"/>
-    <string english="toggle vsync" translation="" explanation="menu option"/>
-    <string english="Toggle VSync" translation="" explanation="title" max="20"/>
-    <string english="Turn VSync on or off." translation="" explanation="" max="38*2"/>
-    <string english="Current mode: VSYNC OFF" translation="" explanation="" max="38*2"/>
-    <string english="Current mode: VSYNC ON" translation="" explanation="" max="38*2"/>
-    <string english="music volume" translation="" explanation="audio menu option"/>
-    <string english="Music Volume" translation="" explanation="title" max="20"/>
-    <string english="Change the volume of the music." translation="" explanation="" max="38*3"/>
-    <string english="sound volume" translation="" explanation="audio menu option"/>
-    <string english="Sound Volume" translation="" explanation="title" max="20"/>
-    <string english="Change the volume of sound effects." translation="" explanation="" max="38*3"/>
-    <string english="Credits" translation="" explanation="credits" max="20"/>
-    <string english="VVVVVV is a game by" translation="" explanation="credits" max="40"/>
-    <string english="and features music by" translation="" explanation="credits" max="40"/>
-    <string english="Roomnames are by" translation="" explanation="credits" max="40"/>
-    <string english="C++ version by" translation="" explanation="credits" max="40"/>
-    <string english="Beta Testing by" translation="" explanation="credits" max="30"/>
-    <string english="Ending Picture by" translation="" explanation="credits" max="30"/>
-    <string english="Created by" translation="" explanation="credits" max="30"/>
-    <string english="With Music by" translation="" explanation="credits" max="30"/>
-    <string english="Rooms Named by" translation="" explanation="credits" max="30"/>
-    <string english="C++ Port by" translation="" explanation="credits" max="30"/>
-    <string english="Patrons" translation="" explanation="credits, people who donated a certain amount before the game originally released" max="13"/>
-    <string english="VVVVVV is supported by the following patrons" translation="" explanation="credits" max="38*3"/>
-    <string english="and also by" translation="" explanation="credits, VVVVVV is also supported by the following people" max="38*2"/>
-    <string english="and" translation="" explanation="credits. This list of names, AND furthermore, this other list of names" max="38"/>
-    <string english="GitHub Contributors" translation="" explanation="credits. This doesn&apos;t _really_ need `GitHub` specifically, it could be replaced with `Code`" max="20"/>
-    <string english="With contributions on GitHub from" translation="" explanation="credits" max="38*3"/>
-    <string english="and thanks also to:" translation="" explanation="credits, and thanks also to ... you!" max="38*3"/>
-    <string english="You!" translation="" explanation="credits, and thanks also to ... you!" max="20"/>
-    <string english="Your support makes it possible for me to continue making the games I want to make, now and into the future." translation="" explanation="credits" max="38*5"/>
-    <string english="Thank you!" translation="" explanation="credits" max="38*5"/>
-    <string english="Good luck!" translation="" explanation="" max="38*3"/>
-    <string english="You cannot save in this mode." translation="" explanation="" max="38*3"/>
-    <string english="Would you like to disable the cutscenes during the game?" translation="" explanation="" max="38*6"/>
-    <string english="disable cutscenes" translation="" explanation="menu option"/>
-    <string english="enable cutscenes" translation="" explanation="menu option"/>
-    <string english="analog stick sensitivity" translation="" explanation="menu option"/>
-    <string english="Low" translation="" explanation="analog stick sensitivity, game pad menu"/>
-    <string english="Medium" translation="" explanation="analog stick sensitivity, game pad menu"/>
-    <string english="High" translation="" explanation="analog stick sensitivity, game pad menu"/>
-    <string english="bind flip" translation="" explanation="menu option"/>
-    <string english="bind enter" translation="" explanation="menu option"/>
-    <string english="bind menu" translation="" explanation="menu option"/>
-    <string english="bind restart" translation="" explanation="menu option. In-game death key to restart at checkpoint"/>
-    <string english="bind interact" translation="" explanation="menu option"/>
-    <string english="Flip is bound to: " translation="" explanation="controller binds, bound to A, B, X, Y, etc. These strings end with a space!" max="32"/>
-    <string english="Enter is bound to: " translation="" explanation="controller binds, bound to A, B, X, Y, etc. These strings end with a space!" max="32"/>
-    <string english="Menu is bound to: " translation="" explanation="controller binds, bound to A, B, X, Y, etc. These strings end with a space!" max="32"/>
-    <string english="Restart is bound to: " translation="" explanation="in-game death key to restart at checkpoint. Controller binds, bound to A, B, X, Y, etc. These strings end with a space!" max="32"/>
-    <string english="Interact is bound to: " translation="" explanation="controller binds, bound to A, B, X, Y, etc. These strings end with a space!" max="32"/>
-    <string english="ERROR: No language files found." translation="" explanation="" max="38*3"/>
-    <string english="Language folder:" translation="" explanation="" max="39"/>
-    <string english="Repository language folder:" translation="" explanation="Language folder from the Git repository" max="39"/>
-    <string english="translator options" translation="" explanation="menu option"/>
-    <string english="Translator options" translation="" explanation="title" max="20"/>
-    <string english="Some options that are useful for translators and developers." translation="" explanation="" max="38*6"/>
-    <string english="maintenance" translation="" explanation="menu option, menu that allows you to apply maintenance to translations"/>
-    <string english="Maintenance" translation="" explanation="title" max="20"/>
-    <string english="open lang folder" translation="" explanation="menu option. Button that opens the folder with language files (which is called lang) in a file explorer"/>
-    <string english="Sync all language files after adding new strings." translation="" explanation="" max="38*6"/>
-    <string english="translate room names" translation="" explanation="menu option"/>
-    <string english="Translate rooms" translation="" explanation="title" max="20"/>
-    <string english="Enable room name translation mode, so you can translate room names in context. Press I for invincibility." translation="" explanation="" max="38*4"/>
-    <string english="You have not enabled room name translation mode!" translation="" explanation="" max="38*4"/>
-    <string english="menu test" translation="" explanation="menu option"/>
-    <string english="Menu test" translation="" explanation="title" max="20"/>
-    <string english="Cycle through most menus in the game. The menus will not actually work, all options take you to the next menu instead. Press Escape to stop." translation="" explanation="" max="38*6"/>
-    <string english="cutscene test" translation="" explanation="menu option"/>
-    <string english="Cutscene test" translation="" explanation="title" max="20"/>
-    <string english="Display all text boxes from cutscenes.xml. Only tests the basic appearance of each individual text box." translation="" explanation="" max="38*6"/>
-    <string english="from clipboard" translation="" explanation="menu option, paste script name from clipboard"/>
-    <string english="explore game" translation="" explanation="menu option"/>
-    <string english="Explore game" translation="" explanation="title" max="20"/>
-    <string english="Explore the rooms of any level in the game, to find all room names to translate." translation="" explanation="" max="38*6"/>
-    <string english="limits check" translation="" explanation="menu option"/>
-    <string english="global limits check" translation="" explanation="menu option"/>
-    <string english="Limits check" translation="" explanation="title" max="20"/>
-    <string english="Find translations that don&apos;t fit within their defined bounds." translation="" explanation="" max="38*6"/>
-    <string english="No text overflows found!" translation="" explanation="limits check. no strings go outside their max bounds" max="38*6"/>
-    <string english="No text overflows left!" translation="" explanation="limits check. we have seen all strings that go outside their max bounds" max="38*6"/>
-    <string english="Note that this detection isn&apos;t perfect." translation="" explanation="limits check" max="38*6"/>
-    <string english="sync language files" translation="" explanation="menu option"/>
-    <string english="Sync language files" translation="" explanation="title, translation maintenance menu" max="20"/>
-    <string english="sync" translation="" explanation="menu option, verb"/>
-    <string english="Merge all new strings from the template files into the translation files, keeping existing translations." translation="" explanation="translation maintenance menu" max="38*6"/>
-    <string english="language statistics" translation="" explanation="menu option"/>
-    <string english="global statistics" translation="" explanation="menu option"/>
-    <string english="Statistics" translation="" explanation="title, translation maintenance menu" max="20"/>
-    <string english="Count the amount of untranslated strings for this language." translation="" explanation="" max="38*6"/>
-    <string english="Count the amount of untranslated strings for each language." translation="" explanation="translation maintenance menu" max="38*6"/>
-    <string english="If new strings were added to the English template language files, this feature will insert them in the translation files for all languages. Make a backup, just in case." translation="" explanation="translation maintenance menu" max="38*7"/>
-    <string english="Full syncing EN→All:" translation="" explanation="translation maintenance menu. The following list of language files can be fully synced from English to all other languages by pressing this button - new strings will be inserted in all languages" max="40"/>
-    <string english="Syncing not supported:" translation="" explanation="translation maintenance menu. The following list of language files are untouched by the sync button" max="40"/>
-    <string english="advanced options" translation="" explanation="menu option"/>
-    <string english="Advanced Options" translation="" explanation="title" max="20"/>
-    <string english="All other gameplay settings." translation="" explanation="description for advanced options" max="38*5"/>
-    <string english="unfocus pause" translation="" explanation="menu option. Turns the pause screen on/off, which shows up when the window is unfocused/inactive (only one window is normally in focus/active at a time). Possible alternative: auto pause screen"/>
-    <string english="Unfocus Pause" translation="" explanation="title. Turns the pause screen on/off, which shows up when the window is unfocused/inactive (only one window is normally in focus/active at a time). Possible alternative: auto pause screen" max="20"/>
-    <string english="Toggle if the game will pause when the window is unfocused." translation="" explanation="" max="38*3"/>
-    <string english="Unfocus pause is OFF" translation="" explanation="Making another window active will not show the pause screen." max="38*2"/>
-    <string english="Unfocus pause is ON" translation="" explanation="Making another window active will show the pause screen." max="38*2"/>
-    <string english="unfocus audio pause" translation="" explanation="menu option. Allows the user to choose whether the music should pause, or continue to play, when the window is unfocused/inactive (only one window is normally in focus/active at a time). Possible alternative: auto audio pause"/>
-    <string english="Unfocus Audio" translation="" explanation="title. Allows the user to choose whether the music should pause, or continue to play, when the window is unfocused/inactive (only one window is normally in focus/active at a time). Possible alternative: auto audio pause" max="20"/>
-    <string english="Toggle if the audio will pause when the window is unfocused." translation="" explanation="" max="38*3"/>
-    <string english="Unfocus audio pause is OFF" translation="" explanation="Making another window active will leave the music keep playing." max="38*2"/>
-    <string english="Unfocus audio pause is ON" translation="" explanation="Making another window active will pause the music." max="38*2"/>
-    <string english="toggle in-game timer" translation="" explanation="menu option"/>
-    <string english="In-Game Timer" translation="" explanation="title" max="20"/>
-    <string english="Toggle the in-game timer outside of time trials." translation="" explanation="" max="38*3"/>
-    <string english="In-Game Timer is ON" translation="" explanation="" max="38*2"/>
-    <string english="In-Game Timer is OFF" translation="" explanation="" max="38*2"/>
-    <string english="interact button" translation="" explanation="menu option"/>
-    <string english="Interact Button" translation="" explanation="title, lets the user change the key for interacting with objects or crewmates" max="20"/>
-    <string english="Toggle whether you interact with prompts using ENTER or E." translation="" explanation="prompts: see the `Press {button} to talk to .../activate terminal/teleport` below" max="38*3"/>
-    <string english="E" translation="" explanation="keyboard key E. Speedrunner options menu"/>
-    <string english="ENTER" translation="" explanation="keyboard key ENTER. Speedrunner options menu"/>
-    <string english="ESC" translation="" explanation="keyboard key ESC"/>
-    <string english="ACTION" translation="" explanation="the ACTION key is either the SPACE key, Z or V (this is explained on the title screen). It's used in strings like `Press ACTION to advance text`"/>
-    <string english="Interact button: {button}" translation="" explanation="keyboard key (E or ENTER) is filled in for {button}. Speedrunner options menu" max="38*2"/>
-    <string english="fake load screen" translation="" explanation="menu option"/>
-    <string english="Fake Load Screen" translation="" explanation="title, allows the loading screen which counts to 100% to be turned off" max="20"/>
-    <string english="Disable the fake loading screen which appears on game launch." translation="" explanation="" max="38*3"/>
-    <string english="Fake loading screen is OFF" translation="" explanation="allows the loading screen which counts to 100% to be turned off" max="38*2"/>
-    <string english="Fake loading screen is ON" translation="" explanation="allows the loading screen which counts to 100% to be turned off" max="38*2"/>
-    <string english="room name background" translation="" explanation="menu option, background behind room names"/>
-    <string english="Room Name BG" translation="" explanation="title, background behind room names" max="20"/>
-    <string english="Lets you see through what is behind the name at the bottom of the screen." translation="" explanation="" max="38*3"/>
-    <string english="Room name background is TRANSLUCENT" translation="" explanation="" max="38*2"/>
-    <string english="Room name background is OPAQUE" translation="" explanation="" max="38*2"/>
-    <string english="speedrun options" translation="" explanation="menu option"/>
-    <string english="Speedrunner Options" translation="" explanation="title" max="20"/>
-    <string english="Access some advanced settings that might be of interest to speedrunners." translation="" explanation="description for speedrunner options" max="38*5"/>
-    <string english="glitchrunner mode" translation="" explanation="menu option, a glitchrunner is a speedrunner who takes advantage of glitches to run through the game faster"/>
-    <string english="Glitchrunner Mode" translation="" explanation="title, a glitchrunner is a speedrunner who takes advantage of glitches to run through the game faster" max="20"/>
-    <string english="Re-enable glitches that existed in previous versions of the game." translation="" explanation="glitchrunner mode" max="38*3"/>
-    <string english="Glitchrunner mode is OFF" translation="" explanation="" max="38*2"/>
-    <string english="Glitchrunner mode is {version}" translation="" explanation="a version number is filled in for {version}, such as 2.0 or 2.2" max="38*2"/>
-    <string english="Select a new glitchrunner version below." translation="" explanation="" max="38*3"/>
-    <string english="none" translation="" explanation="menu option, do not emulate any older version"/>
-    <string english="2.0" translation="" explanation="VVVVVV version number for glitchrunner mode"/>
-    <string english="2.2" translation="" explanation="VVVVVV version number for glitchrunner mode"/>
-    <string english="input delay" translation="" explanation="menu option, enable 1 frame of delay after pressing input"/>
-    <string english="Input Delay" translation="" explanation="title, enable 1 frame of delay after pressing input" max="20"/>
-    <string english="Re-enable the 1-frame input delay from previous versions of the game." translation="" explanation="input delay" max="38*3"/>
-    <string english="Input delay is ON" translation="" explanation="" max="38*2"/>
-    <string english="Input delay is OFF" translation="" explanation="" max="38*2"/>
-    <string english="accessibility" translation="" explanation="menu option"/>
-    <string english="Accessibility" translation="" explanation="title" max="20"/>
-    <string english="Disable screen effects, enable slowdown modes or invincibility." translation="" explanation="" max="38*5"/>
-    <string english="animated backgrounds" translation="" explanation="menu option"/>
-    <string english="Backgrounds" translation="" explanation="title" max="20"/>
-    <string english="Disable animated backgrounds in menus and during gameplay." translation="" explanation="" max="38*3"/>
-    <string english="Backgrounds are ON." translation="" explanation="" max="38*2"/>
-    <string english="Backgrounds are OFF." translation="" explanation="" max="38*2"/>
-    <string english="screen effects" translation="" explanation="menu option"/>
-    <string english="Screen Effects" translation="" explanation="title" max="20"/>
-    <string english="Disables screen shakes and flashes." translation="" explanation="" max="38*2"/>
-    <string english="Screen Effects are ON." translation="" explanation="" max="38*3"/>
-    <string english="Screen Effects are OFF." translation="" explanation="" max="38*3"/>
-    <string english="text outline" translation="" explanation="menu option"/>
-    <string english="Text Outline" translation="" explanation="title" max="20"/>
-    <string english="Disables outline on game text." translation="" explanation="" max="38*2"/>
-    <string english="Text outlines are ON." translation="" explanation="" max="40"/>
-    <string english="Text outlines are OFF." translation="" explanation="" max="40"/>
-    <string english="invincibility" translation="" explanation="menu option"/>
-    <string english="Invincibility" translation="" explanation="title" max="20"/>
-    <string english="Explore the game freely without dying. (Can cause glitches.)" translation="" explanation="invincibility mode" max="38*3"/>
-    <string english="Invincibility is ON." translation="" explanation="" max="38*2"/>
-    <string english="Invincibility is OFF." translation="" explanation="" max="38*2"/>
-    <string english="Are you sure you want to enable invincibility?" translation="" explanation="" max="38*7"/>
-    <string english="no, return to options" translation="" explanation="menu option"/>
-    <string english="yes, enable" translation="" explanation="menu option"/>
-    <string english="slowdown" translation="" explanation="menu option"/>
-    <string english="Slowdown" translation="" explanation="title" max="20"/>
-    <string english="Game Speed" translation="" explanation="title" max="20"/>
-    <string english="Reduce the game speed." translation="" explanation="" max="38*2"/>
-    <string english="Select a new game speed below." translation="" explanation="" max="38*2"/>
-    <string english="Game speed is normal." translation="" explanation="" max="38*2"/>
-    <string english="Game speed is at 80%" translation="" explanation="" max="38*2"/>
-    <string english="Game speed is at 60%" translation="" explanation="" max="38*2"/>
-    <string english="Game speed is at 40%" translation="" explanation="" max="38*2"/>
-    <string english="normal speed" translation="" explanation="menu option"/>
-    <string english="80% speed" translation="" explanation="menu option"/>
-    <string english="60% speed" translation="" explanation="menu option"/>
-    <string english="40% speed" translation="" explanation="menu option"/>
-    <string english="play intermission 1" translation="" explanation="menu option"/>
-    <string english="play intermission 2" translation="" explanation="menu option"/>
-    <string english="Who do you want to play the level with?" translation="" explanation="choose your NPC companion" max="38*8"/>
-    <string english="time trials" translation="" explanation="menu option"/>
-    <string english="Time Trials" translation="" explanation="title" max="20"/>
-    <string english="Replay any level in the game in a competitive time trial mode." translation="" explanation="" max="38*4"/>
-    <string english="Time Trials are not available with slowdown or invincibility." translation="" explanation="" max="38*3"/>
-    <string english="unlock time trials" translation="" explanation="menu option"/>
-    <string english="Unlock Time Trials" translation="" explanation="title" max="20"/>
-    <string english="You can unlock each time trial separately." translation="" explanation="" max="38*5"/>
-    <string english="intermissions" translation="" explanation="menu option"/>
-    <string english="Intermissions" translation="" explanation="title" max="20"/>
-    <string english="Replay the intermission levels." translation="" explanation="" max="38*3"/>
-    <string english="unlock intermissions" translation="" explanation="menu option"/>
-    <string english="TO UNLOCK: Complete the intermission levels in-game." translation="" explanation="" max="38*4"/>
-    <string english="no death mode" translation="" explanation="menu option"/>
-    <string english="No Death Mode" translation="" explanation="title" max="20"/>
-    <string english="Play the entire game without dying once." translation="" explanation="" max="38*4"/>
-    <string english="No Death Mode is not available with slowdown or invincibility." translation="" explanation="" max="38*3"/>
-    <string english="unlock no death mode" translation="" explanation="menu option"/>
-    <string english="TO UNLOCK: Achieve an S-rank or above in at least 4 time trials." translation="" explanation="ranks are B A S V, see below" max="38*3"/>
-    <string english="flip mode" translation="" explanation="menu option, mirrors the entire game vertically"/>
-    <string english="Flip Mode" translation="" explanation="title, mirrors the entire game vertically" max="20"/>
-    <string english="Flip the entire game vertically." translation="" explanation="" max="38*2"/>
-    <string english="Flip the entire game vertically. Compatible with other game modes." translation="" explanation="" max="38*4"/>
-    <string english="unlock flip mode" translation="" explanation="menu option"/>
-    <string english="Currently ENABLED!" translation="" explanation="flip mode" max="38*3"/>
-    <string english="Currently Disabled." translation="" explanation="flip mode" max="38*3"/>
-    <string english="TO UNLOCK: Complete the game." translation="" explanation="" max="38*3"/>
-    <string english="Are you sure you want to quit?" translation="" explanation="quit the program" max="38*4"/>
-    <string english="GAME OVER" translation="" explanation="bigger title" max="13"/>
-    <string english="You managed to reach:" translation="" explanation="you managed to reach the following room" max="40"/>
-    <string english="Keep trying! You&apos;ll get there!" translation="" explanation="player died before managing to save anybody" max="38*2"/>
-    <string english="Nice one!" translation="" explanation="player died after saving one crewmate" max="38*2"/>
-    <string english="Wow! Congratulations!" translation="" explanation="player died after saving two crewmates" max="38*2"/>
-    <string english="Incredible!" translation="" explanation="player died after saving three crewmates" max="38*2"/>
-    <string english="Unbelievable! Well done!" translation="" explanation="player died after saving four crewmates" max="38*2"/>
-    <string english="Er, how did you do that?" translation="" explanation="player died even though they were finished, lol" max="38*2"/>
-    <string english="WOW" translation="" explanation="even bigger title" max="10"/>
-    <string english="You rescued all the crewmates!" translation="" explanation="" max="40"/>
-    <string english="A new trophy has been awarded and placed in the secret lab to acknowledge your achievement!" translation="" explanation="" max="38*4"/>
-    <string english="[Trinkets found]" translation="" explanation="amount of shiny trinkets found" max="40"/>
-    <string english="[Number of Deaths]" translation="" explanation="" max="40"/>
-    <string english="[Time Taken]" translation="" explanation="stopwatch time" max="40"/>
-    <string english="Trinkets Found:" translation="" explanation="game complete screen" max="21"/>
-    <string english="Game Time:" translation="" explanation="game complete screen" max="21"/>
-    <string english="Total Flips:" translation="" explanation="game complete screen" max="21"/>
-    <string english="Total Deaths:" translation="" explanation="game complete screen" max="21"/>
-    <string english="Results" translation="" explanation="bigger title" max="13"/>
-    <string english="TIME TAKEN:" translation="" explanation="time the player took playing the level" max="32"/>
-    <string english="NUMBER OF DEATHS:" translation="" explanation="amount of times the player died" max="32"/>
-    <string english="SHINY TRINKETS:" translation="" explanation="amount of trinkets collected" max="32"/>
-    <string english=" / " translation="" explanation="inserted between two times, ex: 0:46.90 / 1:15.99. Time trial results"/>
-    <string english="{n_trinkets}/{max_trinkets}" translation="" explanation="ex: 2/5"/>
-    <string english="{n_trinkets} of {max_trinkets}" translation="" explanation="ex: 2 of 5"/>
-    <string english="{n_trinkets|wordy} out of {max_trinkets|wordy}" translation="" explanation="ex: One out of Twenty, see numbers.xml. You can add |upper for an uppercase letter." max="34"/>
-    <string english="{savebox_n_trinkets|wordy}" translation="" explanation="trinket count in telesave/quicksave information box. You can add |upper for an uppercase letter."/>
-    <string english="{gamecomplete_n_trinkets|wordy}" translation="" explanation="trinket count on Game Complete screen (after Trinkets Found:) You can add |upper for an uppercase letter."/>
-    <string english="+1 Rank!" translation="" explanation="time trial rank was upgraded (B → A → S → V). B is minimum, which is purposefully high (see it as 7/10) - S is a popular rank above A in a lot of games, so VVVVVV added a rank above that." max="12"/>
-    <string english="Rank:" translation="" explanation="time trial rank" max="9"/>
-    <string english="B" translation="" explanation="time trial rank" max="5"/>
-    <string english="A" translation="" explanation="time trial rank" max="5"/>
-    <string english="S" translation="" explanation="time trial rank" max="5"/>
-    <string english="V" translation="" explanation="time trial rank" max="5"/>
-    <string english="space station 1" translation="" explanation="area name as menu option"/>
-    <string english="Space Station 1" translation="" explanation="area name as title" max="20"/>
-    <string english="space station 2" translation="" explanation="area name as menu option"/>
-    <string english="Space Station 2" translation="" explanation="area name as title" max="20"/>
-    <string english="the laboratory" translation="" explanation="area name as menu option"/>
-    <string english="The Laboratory" translation="" explanation="area name as title" max="20"/>
-    <string english="the tower" translation="" explanation="area name as menu option"/>
-    <string english="The Tower" translation="" explanation="area name as title" max="20"/>
-    <string english="the warp zone" translation="" explanation="area name as menu option"/>
-    <string english="The Warp Zone" translation="" explanation="area name as title" max="20"/>
-    <string english="the final level" translation="" explanation="area name as menu option"/>
-    <string english="The Final Level" translation="" explanation="area name as title" max="20"/>
-    <string english="intermission 1" translation="" explanation="area name as menu option"/>
-    <string english="Intermission 1" translation="" explanation="area name as title" max="20"/>
-    <string english="intermission 2" translation="" explanation="area name as menu option"/>
-    <string english="Intermission 2" translation="" explanation="area name as title" max="20"/>
+    <string english="LOADING... {percent|digits=2|spaces}%" translation="게임로딩중... {percent|digits=2|spaces}%" explanation="on loading screen. {percent} = number from 0-100" max="26"/>
+    <string english="Game paused" translation="일시 중지" explanation="pause screen" max="40"/>
+    <string english="[click to resume]" translation="[클릭시 다시 시작]" explanation="pause screen" max="40"/>
+    <string english="Press M to mute in game" translation="M을 눌러 게임에서 음소거" explanation="pause screen" max="40"/>
+    <string english="Press N to mute music only" translation="N을 눌러 음악만 음소거" explanation="pause screen" max="40"/>
+    <string english="MAKE AND PLAY EDITION" translation="Make and Play 에디션" explanation="" max="27"/>
+    <string english="[MMMMMM Mod Installed]" translation="MMMMMM Mod 설치됨" explanation="" max="32"/>
+    <string english="play" translation="플레이" explanation="main menu option"/>
+    <string english="levels" translation="레벨" explanation="main menu option"/>
+    <string english="options" translation="옵션" explanation="main menu option"/>
+    <string english="translator" translation="번역" explanation="main menu option"/>
+    <string english="credits" translation="크레딧" explanation="main menu option"/>
+    <string english="quit" translation="종료" explanation="main menu option"/>
+    <string english="gameplay" translation="게임플레이" explanation="options menu option"/>
+    <string english="Gameplay Options" translation="게임플레이 옵션" explanation="title" max="20"/>
+    <string english="Adjust various gameplay settings." translation="게임플레이 설정 변경" explanation="" max="38*5"/>
+    <string english="graphics" translation="그래픽" explanation="options menu option"/>
+    <string english="Graphics Options" translation="그래픽 옵션" explanation="title" max="20"/>
+    <string english="Adjust screen settings." translation="스크린 설정 변경" explanation="" max="38*5"/>
+    <string english="audio" translation="오디오" explanation="options menu option"/>
+    <string english="Audio Options" translation="오디오 옵션" explanation="title" max="20"/>
+    <string english="Adjust volume settings and soundtrack." translation="볼륨 설정 및 사운드트랙 변경." explanation="" max="38*5"/>
+    <string english="Adjust volume settings." translation="볼륨 설정 변경." explanation="" max="38*5"/>
+    <string english="continue" translation="시작" explanation="menu option"/>
+    <string english="continue from teleporter" translation="텔레포트에서 시작" explanation="menu option, game save that was made at a teleporter"/>
+    <string english="Tele Save" translation="텔레포트 세이브" explanation="title, game save that was made at a teleporter" max="20"/>
+    <string english="continue from quicksave" translation="퀵세이브에서 시작" explanation="menu option, game save that was made freely from the menu (at any checkpoint)"/>
+    <string english="Quick Save" translation="퀵세이브" explanation="title, game save that was made freely from the menu (at any checkpoint)" max="20"/>
+    <string english="proceed" translation="진행" explanation="menu option"/>
+    <string english="new game" translation="새게임" explanation="menu option"/>
+    <string english="start new game" translation="새게임 시작" explanation="menu option, extra confirmation"/>
+    <string english="secret lab" translation="비밀 실험실" explanation="menu option"/>
+    <string english="play modes" translation="플레이 모드" explanation="menu option"/>
+    <string english="ERROR: No levels found." translation="오류: 레벨을 찾을 수 없음" explanation="" max="38*3"/>
+    <string english="ERROR: This level has no start point!" translation="오류: 이 레벨에는 시작점이 없음!" explanation="" max="38*5"/>
+    <string english="ERROR" translation="오류" explanation="title" max="20"/>
+    <string english="WARNING" translation="경고" explanation="title" max="20"/>
+    <string english="unlock play modes" translation="플레이 모드 잠금해제" explanation="menu option"/>
+    <string english="Unlock Play Modes" translation="플레이 모드 잠금해제" explanation="title" max="20"/>
+    <string english="Unlock parts of the game normally unlocked as you progress." translation="게임을 진행하면서 일반적으로 잠금 해제되는 부분의 잠금을 해제합니다." explanation="" max="38*5"/>
+    <string english="From here, you may unlock parts of the game that are normally unlocked as you play." translation="여기에서 게임을 플레이하면서 일반적으로 잠금 해제되는 부분의 잠금을 해제할 수 있습니다." explanation="" max="38*5"/>
+    <string english="unlock ship jukebox" translation="우주선 주크박스 잠금 해제" explanation="menu option"/>
+    <string english="unlock secret lab" translation="비밀 실험실 잠금 해제" explanation="menu option"/>
+    <string english="game pad" translation="게임 패드" explanation="menu option"/>
+    <string english="Game Pad Options" translation="게임 패드 옵션" explanation="title" max="20"/>
+    <string english="Game Pad" translation="게임 패드" explanation="title" max="20"/>
+    <string english="Rebind your controller&apos;s buttons and adjust sensitivity." translation="컨트롤러 버튼을 재설정하고 감도를 조정합니다." explanation="" max="38*5"/>
+    <string english="Change controller options." translation="컨트롤러 옵션을 변경합니다." explanation="" max="38*2"/>
+    <string english="language" translation="언어" explanation="menu option"/>
+    <string english="Language" translation="언어" explanation="title" max="20"/>
+    <string english="Change the language." translation="언어 변경" explanation="" max="38*5"/>
+    <string english="clear main game data" translation="메인 게임 데이터를 삭제" explanation="menu option"/>
+    <string english="clear custom level data" translation="사용자 레벨 데이터 삭제" explanation="menu option"/>
+    <string english="Clear Data" translation="데이터 삭제" explanation="title" max="20"/>
+    <string english="Delete your main game save data and unlocked play modes." translation="기본 게임 저장 데이터와 잠금 해제된 플레이 모드를 삭제합니다." explanation="" max="38*5"/>
+    <string english="Delete your custom level save data and completion stars." translation="사용자 지정 레벨 저장 데이터와 완료 별을 삭제합니다." explanation="completion stars: when completing a level you get either 1 or 2 stars" max="38*5"/>
+    <string english="Are you sure? This will delete your current saves..." translation="정말 삭제하시겠습니까? 현재 저장된 데이터가 삭제됩니다..." explanation="" max="38*7"/>
+    <string english="Are you sure you want to delete all your saved data?" translation="모든 저장 데이터를 삭제하시겠습니까?" explanation="" max="38*7"/>
+    <string english="Are you sure you want to delete your quicksave?" translation="퀵 세이브를 삭제하시겠습니까?" explanation="only the quicksave of a custom level" max="38*7"/>
+    <string english="no! don&apos;t delete" translation="아니요! 삭제하지 않음" explanation="menu option"/>
+    <string english="yes, delete everything" translation="예, 모두 삭제" explanation="menu option"/>
+    <string english="yes, delete save" translation="예, 저장 삭제" explanation="menu option"/>
+    <string english="soundtrack" translation="사운드트랙" explanation="menu option"/>
+    <string english="Soundtrack" translation="사운드트랙" explanation="title" max="20"/>
+    <string english="Toggle between MMMMMM and PPPPPP." translation="MMMMMM과 PPPPPP를 전환합니다." explanation="" max="38*2"/>
+    <string english="Current soundtrack: PPPPPP" translation="현재 사운드트랙: PPPPPP" explanation="" max="38*3"/>
+    <string english="Current soundtrack: MMMMMM" translation="현재 사운드트랙: MMMMMM" explanation="" max="38*3"/>
+    <string english="toggle fullscreen" translation="전체 화면 전환" explanation="menu option"/>
+    <string english="Toggle Fullscreen" translation="전체 화면 전환" explanation="title" max="20"/>
+    <string english="Change to fullscreen/windowed mode." translation="전체 화면/윈도우 모드로 변경합니다." explanation="" max="38*3"/>
+    <string english="Current mode: FULLSCREEN" translation="현재 모드: 전체 화면" explanation="" max="38*2"/>
+    <string english="Current mode: WINDOWED" translation="현재 모드: 윈도우" explanation="" max="38*2"/>
+    <string english="scaling mode" translation="스케일링 모드" explanation="menu option"/>
+    <string english="Scaling Mode" translation="스케일링 모드" explanation="title" max="20"/>
+    <string english="Choose letterbox/stretch/integer mode." translation="레터박스/스트레치/정수 모드를 선택합니다." explanation="See the `Current mode` explanations for more details on the modes" max="38*3"/>
+    <string english="Current mode: INTEGER" translation="현재 모드: 정수" explanation="integer (whole number) mode only enlarges the game in exact multiples of 320x240" max="38*2"/>
+    <string english="Current mode: STRETCH" translation="현재 모드: 스트레치" explanation="stretch mode just stretches the game to fill the window content" max="38*2"/>
+    <string english="Current mode: LETTERBOX" translation="현재 모드: 레터박스" explanation="letterbox mode enlarges the game to the window, but adds black bars to make the aspect ratio 4:3" max="38*2"/>
+    <string english="resize to nearest" translation="가장 가까운 크기로 조정" explanation="menu option. The game will be resized to the closest multiple of the normal resolution, 320x240, so for example if your window is 682x493, it will resize to 640x480"/>
+    <string english="Resize to Nearest" translation="가장 가까운 크기로 조정" explanation="title. The game will be resized to the closest multiple of the normal resolution, 320x240, so for example if your window is 682x493, it will resize to 640x480" max="20"/>
+    <string english="Resize to the nearest window size that is of an integer multiple." translation="정수 배수의 가장 가까운 창 크기로 크기를 조정합니다." explanation="The game will be resized to the closest multiple of the normal resolution, 320x240, so for example if your window is 682x493, it will resize to 640x480" max="38*3"/>
+    <string english="You must be in windowed mode to use this option." translation="이 옵션을 사용하려면 윈도우 모드에 있어야 합니다" explanation="The game cannot be in fullscreen to resize the window" max="38*2"/>
+    <string english="toggle filter" translation="필터 전환" explanation="menu option"/>
+    <string english="Toggle Filter" translation="필터 전환" explanation="title" max="20"/>
+    <string english="Change to nearest/linear filter." translation="가장 이웃 기반/선형 필터로 변경합니다." explanation="" max="38*3"/>
+    <string english="Current mode: LINEAR" translation="현재 모드: 선형 필터" explanation="" max="38*2"/>
+    <string english="Current mode: NEAREST" translation="현재 모드: 이웃 기반 필터" explanation="nearest neighbor filter" max="38*2"/>
+    <string english="toggle analogue" translation="아날로그 전환" explanation="menu option, analogue mode simulates distortion from bad signal"/>
+    <string english="Analogue Mode" translation="아날로그 모드" explanation="title, analogue mode simulates distortion from bad signal" max="20"/>
+    <string english="There is nothing wrong with your television set. Do not attempt to adjust the picture." translation="텔레비전 세트에 문제가 없습니다. 영상을 조정하려고 시도하지 마세요." explanation="" max="38*5"/>
+    <string english="toggle fps" translation="fps 전환" explanation="menu option, kind of a misnomer, toggle between 30 FPS and more than 30 FPS"/>
+    <string english="Toggle 30+ FPS" translation="30+ FPS 전환" explanation="title" max="20"/>
+    <string english="Change whether the game runs at 30 or over 30 FPS." translation="게임 실행 속도를 30프레임 또는 30프레임 이상으로 변경합니다." explanation="" max="38*3"/>
+    <string english="Current mode: 30 FPS" translation="현재모드: 30 FPS" explanation="" max="38*2"/>
+    <string english="Current mode: Over 30 FPS" translation="현재모드: 30+ FPS" explanation="" max="38*2"/>
+    <string english="toggle vsync" translation="수직동기화 전환" explanation="menu option"/>
+    <string english="Toggle VSync" translation="수직동기화 전환" explanation="title" max="20"/>
+    <string english="Turn VSync on or off." translation="수직동기화를 켜거나 끕니다." explanation="" max="38*2"/>
+    <string english="Current mode: VSYNC OFF" translation="현재모드: 수직동기화 끔" explanation="" max="38*2"/>
+    <string english="Current mode: VSYNC ON" translation="현재모드: 수직동기화 켬" explanation="" max="38*2"/>
+    <string english="music volume" translation="음악 볼륨" explanation="audio menu option"/>
+    <string english="Music Volume" translation="음악 볼륨" explanation="title" max="20"/>
+    <string english="Change the volume of the music." translation="음악 볼륨을 변경합니다." explanation="" max="38*3"/>
+    <string english="sound volume" translation="사운드 볼륨" explanation="audio menu option"/>
+    <string english="Sound Volume" translation="사운드 볼륨" explanation="title" max="20"/>
+    <string english="Change the volume of sound effects." translation="사운드 효과음의 볼륨을 변경합니다." explanation="" max="38*3"/>
+    <string english="Credits" translation="크레딧" explanation="credits" max="20"/>
+    <string english="VVVVVV is a game by" translation="VVVVVV 게임 만든이" explanation="credits" max="40"/>
+    <string english="and features music by" translation="음악을 만든이" explanation="credits" max="40"/>
+    <string english="Roomnames are by" translation="방이름 만든이" explanation="credits" max="40"/>
+    <string english="C++ version by" translation="C++ 버전" explanation="credits" max="40"/>
+    <string english="Beta Testing by" translation="베타 테스팅" explanation="credits" max="30"/>
+    <string english="Ending Picture by" translation="엔딩 그림" explanation="credits" max="30"/>
+    <string english="Created by" translation="만든이" explanation="credits" max="30"/>
+    <string english="With Music by" translation="음악" explanation="credits" max="30"/>
+    <string english="Rooms Named by" translation="방이름" explanation="credits" max="30"/>
+    <string english="C++ Port by" translation="C++ 포팅" explanation="credits" max="30"/>
+    <string english="Patrons" translation="후원" explanation="credits, people who donated a certain amount before the game originally released" max="13"/>
+    <string english="VVVVVV is supported by the following patrons" translation="VVVVVV는 아래 후원자들의 지원을 받습니다." explanation="credits" max="38*3"/>
+    <string english="and also by" translation="그리고 또한" explanation="credits, VVVVVV is also supported by the following people" max="38*2"/>
+    <string english="and" translation="그리고" explanation="credits. This list of names, AND furthermore, this other list of names" max="38"/>
+    <string english="GitHub Contributors" translation="GitHub 기여자" explanation="credits. This doesn&apos;t _really_ need `GitHub` specifically, it could be replaced with `Code`" max="20"/>
+    <string english="With contributions on GitHub from" translation="GitHub에 대한 기여와 함께" explanation="credits" max="38*3"/>
+    <string english="and thanks also to:" translation="그리고 또한 감사드립니다" explanation="credits, and thanks also to ... you!" max="38*3"/>
+    <string english="You!" translation="당신!" explanation="credits, and thanks also to ... you!" max="20"/>
+    <string english="Your support makes it possible for me to continue making the games I want to make, now and into the future." translation="여러분의 지원 덕분에 제가 만들고 싶은 게임을 지금도 미래에도 계속 만들 수 있게 되었습니다." explanation="credits" max="38*5"/>
+    <string english="Thank you!" translation="감사합니다!" explanation="credits" max="38*5"/>
+    <string english="Good luck!" translation="행운을 빕니다!" explanation="" max="38*3"/>
+    <string english="You cannot save in this mode." translation="이 모드에서는 저장할 수 없습니다." explanation="" max="38*3"/>
+    <string english="Would you like to disable the cutscenes during the game?" translation="게임 중 컷신을 비활성화하시겠습니까?" explanation="" max="38*6"/>
+    <string english="disable cutscenes" translation="컷신 비활성화" explanation="menu option"/>
+    <string english="enable cutscenes" translation="컷신 활성화" explanation="menu option"/>
+    <string english="analog stick sensitivity" translation="아날로그 스틱 감도" explanation="menu option"/>
+    <string english="Low" translation="낮음" explanation="analog stick sensitivity, game pad menu"/>
+    <string english="Medium" translation="중간" explanation="analog stick sensitivity, game pad menu"/>
+    <string english="High" translation="높음" explanation="analog stick sensitivity, game pad menu"/>
+    <string english="bind flip" translation="뒤집기" explanation="menu option"/>
+    <string english="bind enter" translation="엔터" explanation="menu option"/>
+    <string english="bind menu" translation="메뉴" explanation="menu option"/>
+    <string english="bind restart" translation="재시작" explanation="menu option. In-game death key to restart at checkpoint"/>
+    <string english="bind interact" translation="인터랙트" explanation="menu option"/>
+    <string english="Flip is bound to:" translation="뒤집기 키:" explanation="controller binds, bound to A, B, X, Y, etc. These strings end with a space!" max="32"/>
+    <string english="Enter is bound to:" translation="엔터 키:" explanation="controller binds, bound to A, B, X, Y, etc. These strings end with a space!" max="32"/>
+    <string english="Menu is bound to:" translation="메뉴 키:" explanation="controller binds, bound to A, B, X, Y, etc. These strings end with a space!" max="32"/>
+    <string english="Restart is bound to:" translation="재시작 키:" explanation="in-game death key to restart at checkpoint. Controller binds, bound to A, B, X, Y, etc. These strings end with a space!" max="32"/>
+    <string english="Interact is bound to:" translation="인터랙트 키:" explanation="controller binds, bound to A, B, X, Y, etc. These strings end with a space!" max="32"/>
+    <string english="ERROR: No language files found." translation="오류: 언어 파일을 찾을 수 없습니다." explanation="" max="38*3"/>
+    <string english="Language folder:" translation="언어 폴더:" explanation="" max="39"/>
+    <string english="Repository language folder:" translation="리포지토리 언어 폴더:" explanation="Language folder from the Git repository" max="39"/>
+    <string english="translator options" translation="번역자 옵션" explanation="menu option"/>
+    <string english="Translator options" translation="번역자 옵션" explanation="title" max="20"/>
+    <string english="Some options that are useful for translators and developers." translation="번역자 및 개발자에게 유용한 일부 옵션." explanation="" max="38*6"/>
+    <string english="maintenance" translation="유지보수" explanation="menu option, menu that allows you to apply maintenance to translations"/>
+    <string english="Maintenance" translation="유지보수" explanation="title" max="20"/>
+    <string english="open lang folder" translation="언어 폴더 열기" explanation="menu option. Button that opens the folder with language files (which is called lang) in a file explorer"/>
+    <string english="Sync all language files after adding new strings." translation="새 문자열을 추가한 후 모든 언어 파일을 동기화합니다." explanation="" max="38*6"/>
+    <string english="translate room names" translation="방 이름 번역" explanation="menu option"/>
+    <string english="Translate rooms" translation="방 이름 번역" explanation="title" max="20"/>
+    <string english="Enable room name translation mode, so you can translate room names in context. Press I for invincibility." translation="방 이름 번역 모드를 활성화하면 상황에 맞게 방 이름을 번역할 수 있습니다. I를 누르면 무적이 됩니다." explanation="" max="38*4"/>
+    <string english="You have not enabled room name translation mode!" translation="방 이름 번역 모드를 활성화하지 않았습니다!" explanation="" max="38*4"/>
+    <string english="menu test" translation="메뉴 테스트" explanation="menu option"/>
+    <string english="Menu test" translation="메뉴 테스트" explanation="title" max="20"/>
+    <string english="Cycle through most menus in the game. The menus will not actually work, all options take you to the next menu instead. Press Escape to stop." translation="게임 내 대부분의 메뉴를 순환합니다. 메뉴가 실제로 작동하지 않고 모든 옵션이 다음 메뉴로 이동합니다. 중지하려면 Escape 키를 누릅니다." explanation="" max="38*6"/>
+    <string english="cutscene test" translation="컷신 테스트" explanation="menu option"/>
+    <string english="Cutscene test" translation="컷신 테스트" explanation="title" max="20"/>
+    <string english="Display all text boxes from cutscenes.xml. Only tests the basic appearance of each individual text box." translation="cutscenes.xml의 모든 텍스트 상자를 표시합니다. 각 개별 텍스트 상자의 기본 모양만 테스트합니다." explanation="" max="38*6"/>
+    <string english="from clipboard" translation="클립보드에서" explanation="menu option, paste script name from clipboard"/>
+    <string english="explore game" translation="게임 둘러보기" explanation="menu option"/>
+    <string english="Explore game" translation="게임 둘러보기" explanation="title" max="20"/>
+    <string english="Explore the rooms of any level in the game, to find all room names to translate." translation="게임 내 모든 레벨의 방을 탐색하여 번역할 모든 방 이름을 찾아보세요." explanation="" max="38*6"/>
+    <string english="limits check" translation="리미트 체크" explanation="menu option"/>
+    <string english="global limits check" translation="글로벌 리미트 체크" explanation="menu option"/>
+    <string english="Limits check" translation="리미트 체크" explanation="title" max="20"/>
+    <string english="Find translations that don&apos;t fit within their defined bounds." translation="정의된 범위에 맞지 않는 번역을 찾아보세요." explanation="" max="38*6"/>
+    <string english="No text overflows found!" translation="텍스트 오버플로가 발견되지 않았습니다!" explanation="limits check. no strings go outside their max bounds" max="38*6"/>
+    <string english="No text overflows left!" translation="텍스트 오버플로가 없습니다!" explanation="limits check. we have seen all strings that go outside their max bounds" max="38*6"/>
+    <string english="Note that this detection isn&apos;t perfect." translation="이 감지 기능은 완벽하지 않습니다." explanation="limits check" max="38*6"/>
+    <string english="sync language files" translation="언어 파일 동기화" explanation="menu option"/>
+    <string english="Sync language files" translation="언어 파일 동기화" explanation="title, translation maintenance menu" max="20"/>
+    <string english="sync" translation="동기화" explanation="menu option, verb"/>
+    <string english="Merge all new strings from the template files into the translation files, keeping existing translations." translation="기존 번역을 유지하면서 템플릿 파일의 모든 새 문자열을 번역 파일에 병합합니다." explanation="translation maintenance menu" max="38*6"/>
+    <string english="language statistics" translation="언어 통계" explanation="menu option"/>
+    <string english="global statistics" translation="글로벌 통계" explanation="menu option"/>
+    <string english="Statistics" translation="통계" explanation="title, translation maintenance menu" max="20"/>
+    <string english="Count the amount of untranslated strings for this language." translation="이 언어에 대한 번역되지 않은 문자열의 양을 계산합니다." explanation="" max="38*6"/>
+    <string english="Count the amount of untranslated strings for each language." translation="각 언어에 대한 번역되지 않은 문자열의 양을 계산합니다." explanation="translation maintenance menu" max="38*6"/>
+    <string english="If new strings were added to the English template language files, this feature will insert them in the translation files for all languages. Make a backup, just in case." translation="영어 템플릿 언어 파일에 새 문자열이 추가되면 이 기능은 모든 언어의 번역 파일에 해당 문자열을 삽입합니다. 만일을 대비하여 백업을 만드세요." explanation="translation maintenance menu" max="38*7"/>
+    <string english="Full syncing EN→All:" translation="전체 동기화 EN-)All:" explanation="translation maintenance menu. The following list of language files can be fully synced from English to all other languages by pressing this button - new strings will be inserted in all languages" max="40"/>
+    <string english="Syncing not supported:" translation="동기화가 지원되지 않습니다:" explanation="translation maintenance menu. The following list of language files are untouched by the sync button" max="40"/>
+    <string english="advanced options" translation="고급 옵션" explanation="menu option"/>
+    <string english="Advanced Options" translation="고급 옵션" explanation="title" max="20"/>
+    <string english="All other gameplay settings." translation="기타 모든 게임플레이 설정." explanation="description for advanced options" max="38*5"/>
+    <string english="unfocus pause" translation="언포커스시 일시 중지" explanation="menu option. Turns the pause screen on/off, which shows up when the window is unfocused/inactive (only one window is normally in focus/active at a time). Possible alternative: auto pause screen"/>
+    <string english="Unfocus Pause" translation="언포커스시 일시 중지" explanation="title. Turns the pause screen on/off, which shows up when the window is unfocused/inactive (only one window is normally in focus/active at a time). Possible alternative: auto pause screen" max="20"/>
+    <string english="Toggle if the game will pause when the window is unfocused." translation="윈도우가 포커스를 잃었을 때 게임을 일시 정지할지 여부를 설정합니다." explanation="" max="38*3"/>
+    <string english="Unfocus pause is OFF" translation="언포커스 일시 중지가 꺼짐" explanation="Making another window active will not show the pause screen." max="38*2"/>
+    <string english="Unfocus pause is ON" translation="언포커스 일시 중지가 켜짐" explanation="Making another window active will show the pause screen." max="38*2"/>
+    <string english="unfocus audio pause" translation="언포커스시 오디오 일시 중지" explanation="menu option. Allows the user to choose whether the music should pause, or continue to play, when the window is unfocused/inactive (only one window is normally in focus/active at a time). Possible alternative: auto audio pause"/>
+    <string english="Unfocus Audio" translation="언포커스시 오디오" explanation="title. Allows the user to choose whether the music should pause, or continue to play, when the window is unfocused/inactive (only one window is normally in focus/active at a time). Possible alternative: auto audio pause" max="20"/>
+    <string english="Toggle if the audio will pause when the window is unfocused." translation="윈도우가 포커스를 잃었을 때 오디오를 일시 정지할지 여부를 설정/해제합니다." explanation="" max="38*3"/>
+    <string english="Unfocus audio pause is OFF" translation="언포커스시 오디오 일시 중지가 꺼짐" explanation="Making another window active will leave the music keep playing." max="38*2"/>
+    <string english="Unfocus audio pause is ON" translation="언포커스시 오디오 일시 중지가 켜짐" explanation="Making another window active will pause the music." max="38*2"/>
+    <string english="toggle in-game timer" translation="게임 내 타이머 토글" explanation="menu option"/>
+    <string english="In-Game Timer" translation="게임 내 타이머" explanation="title" max="20"/>
+    <string english="Toggle the in-game timer outside of time trials." translation="타임 트라이얼 외에는 게임 내 타이머를 토글합니다." explanation="" max="38*3"/>
+    <string english="In-Game Timer is ON" translation="게임 내 타이머가 켜짐" explanation="" max="38*2"/>
+    <string english="In-Game Timer is OFF" translation="게임 내 타이머가 꺼짐" explanation="" max="38*2"/>
+    <string english="interact button" translation="인터랙트 버튼" explanation="menu option"/>
+    <string english="Interact Button" translation="인터랙트 버튼" explanation="title, lets the user change the key for interacting with objects or crewmates" max="20"/>
+    <string english="Toggle whether you interact with prompts using ENTER or E." translation="Enter 또는 E를 사용하여 프롬프트와 상호작용할지 여부를 전환합니다." explanation="prompts: see the `Press {button} to talk to .../activate terminal/teleport` below" max="38*3"/>
+    <string english="E" translation="E" explanation="keyboard key E. Speedrunner options menu"/>
+    <string english="ENTER" translation="ENTER" explanation="keyboard key ENTER. Speedrunner options menu"/>
+    <string english="ESC" translation="ESC" explanation="keyboard key ESC"/>
+    <string english="ACTION" translation="ACTION" explanation="the ACTION key is either the SPACE key, Z or V (this is explained on the title screen). It&apos;s used in strings like `Press ACTION to advance text`"/>
+    <string english="Interact button: {button}" translation="인터랙트 버튼: {button}" explanation="keyboard key (E or ENTER) is filled in for {button}. Speedrunner options menu" max="38*2"/>
+    <string english="fake load screen" translation="fake 로딩 화면" explanation="menu option"/>
+    <string english="Fake Load Screen" translation="fake 로딩 화면" explanation="title, allows the loading screen which counts to 100% to be turned off" max="20"/>
+    <string english="Disable the fake loading screen which appears on game launch." translation="게임 실행 시 표시되는 fake 로딩 화면을 비활성화합니다." explanation="" max="38*3"/>
+    <string english="Fake loading screen is OFF" translation="fake 로딩 화면이 꺼짐" explanation="allows the loading screen which counts to 100% to be turned off" max="38*2"/>
+    <string english="Fake loading screen is ON" translation="fake 로딩 화면이 켜짐" explanation="allows the loading screen which counts to 100% to be turned off" max="38*2"/>
+    <string english="room name background" translation="방 이름 배경" explanation="menu option, background behind room names"/>
+    <string english="Room Name BG" translation="방 이름 배경" explanation="title, background behind room names" max="20"/>
+    <string english="Lets you see through what is behind the name at the bottom of the screen." translation="화면 하단에 있는 이름 뒤에 있는 내용을 볼 수 있습니다." explanation="" max="38*3"/>
+    <string english="Room name background is TRANSLUCENT" translation="방 이름 배경이 반투명" explanation="" max="38*2"/>
+    <string english="Room name background is OPAQUE" translation="방 이름 배경이 불투명" explanation="" max="38*2"/>
+    <string english="speedrun options" translation="스피드런 옵션" explanation="menu option"/>
+    <string english="Speedrunner Options" translation="스피드러너 옵션" explanation="title" max="20"/>
+    <string english="Access some advanced settings that might be of interest to speedrunners." translation="스피드러너가 관심을 가질 만한 몇 가지 고급 설정에 액세스합니다." explanation="description for speedrunner options" max="38*5"/>
+    <string english="glitchrunner mode" translation="글리치러너 모드" explanation="menu option, a glitchrunner is a speedrunner who takes advantage of glitches to run through the game faster"/>
+    <string english="Glitchrunner Mode" translation="글리치러너 모드" explanation="title, a glitchrunner is a speedrunner who takes advantage of glitches to run through the game faster" max="20"/>
+    <string english="Re-enable glitches that existed in previous versions of the game." translation="이전 버전의 게임에 있던 글리치를 다시 활성화합니다." explanation="glitchrunner mode" max="38*3"/>
+    <string english="Glitchrunner mode is OFF" translation="글리치러너 모드가 꺼짐" explanation="" max="38*2"/>
+    <string english="Glitchrunner mode is {version}" translation="글리치러너 모드가 {version}" explanation="a version number is filled in for {version}, such as 2.0 or 2.2" max="38*2"/>
+    <string english="Select a new glitchrunner version below." translation="아래에서 새 글리치러너 버전을 선택하세요." explanation="" max="38*3"/>
+    <string english="none" translation="없음" explanation="menu option, do not emulate any older version"/>
+    <string english="2.0" translation="2.0" explanation="VVVVVV version number for glitchrunner mode"/>
+    <string english="2.2" translation="2.2" explanation="VVVVVV version number for glitchrunner mode"/>
+    <string english="input delay" translation="입력 지연" explanation="menu option, enable 1 frame of delay after pressing input"/>
+    <string english="Input Delay" translation="입력 지연" explanation="title, enable 1 frame of delay after pressing input" max="20"/>
+    <string english="Re-enable the 1-frame input delay from previous versions of the game." translation="이전 버전의 게임에 있던 1프레임 입력 지연을 다시 활성화합니다." explanation="input delay" max="38*3"/>
+    <string english="Input delay is ON" translation="입력 지연이 켜짐" explanation="" max="38*2"/>
+    <string english="Input delay is OFF" translation="입력 지연이 꺼짐" explanation="" max="38*2"/>
+    <string english="accessibility" translation="접근성" explanation="menu option"/>
+    <string english="Accessibility" translation="접근성" explanation="title" max="20"/>
+    <string english="Disable screen effects, enable slowdown modes or invincibility." translation="화면 효과를 비활성화하고, 감속 모드 또는 무적 모드를 활성화합니다." explanation="" max="38*5"/>
+    <string english="animated backgrounds" translation="애니메이션 배경" explanation="menu option"/>
+    <string english="Backgrounds" translation="배경" explanation="title" max="20"/>
+    <string english="Disable animated backgrounds in menus and during gameplay." translation="메뉴와 게임 플레이 중에 애니메이션 배경을 비활성화합니다." explanation="" max="38*3"/>
+    <string english="Backgrounds are ON." translation="배경이 켜짐" explanation="" max="38*2"/>
+    <string english="Backgrounds are OFF." translation="배경이 꺼짐" explanation="" max="38*2"/>
+    <string english="screen effects" translation="화면 효과" explanation="menu option"/>
+    <string english="Screen Effects" translation="화면 효과" explanation="title" max="20"/>
+    <string english="Disables screen shakes and flashes." translation="화면 흔들림 및 깜박임을 비활성화합니다." explanation="" max="38*2"/>
+    <string english="Screen Effects are ON." translation="화면 효과가 켜짐" explanation="" max="38*3"/>
+    <string english="Screen Effects are OFF." translation="화면 효과가 꺼짐" explanation="" max="38*3"/>
+    <string english="text outline" translation="텍스트 윤곽선" explanation="menu option"/>
+    <string english="Text Outline" translation="텍스트 윤곽선" explanation="title" max="20"/>
+    <string english="Disables outline on game text." translation="게임 텍스트의 윤곽선을 비활성화합니다." explanation="" max="38*2"/>
+    <string english="Text outlines are ON." translation="텍스트 윤곽선이 켜짐" explanation="" max="40"/>
+    <string english="Text outlines are OFF." translation="텍스트 윤곽선이 꺼짐" explanation="" max="40"/>
+    <string english="invincibility" translation="무적" explanation="menu option"/>
+    <string english="Invincibility" translation="무적" explanation="title" max="20"/>
+    <string english="Explore the game freely without dying. (Can cause glitches.)" translation="죽지 않고 자유롭게 게임을 탐험하세요. (결함이 발생할 수 있습니다.)" explanation="invincibility mode" max="38*3"/>
+    <string english="Invincibility is ON." translation="무적 상태가 켜짐" explanation="" max="38*2"/>
+    <string english="Invincibility is OFF." translation="무적 상태가 꺼짐" explanation="" max="38*2"/>
+    <string english="Are you sure you want to enable invincibility?" translation="무적 모드를 활성화하시겠습니까?" explanation="" max="38*7"/>
+    <string english="no, return to options" translation="아니요, 옵션으로 돌아가기" explanation="menu option"/>
+    <string english="yes, enable" translation="예, 활성화" explanation="menu option"/>
+    <string english="slowdown" translation="감속 모드" explanation="menu option"/>
+    <string english="Slowdown" translation="감속 모드" explanation="title" max="20"/>
+    <string english="Game Speed" translation="게임 속도" explanation="title" max="20"/>
+    <string english="Reduce the game speed." translation="게임 속도를 줄입니다." explanation="" max="38*2"/>
+    <string english="Select a new game speed below." translation="아래에서 새로운 게임 스피드를 선택하세요." explanation="" max="38*2"/>
+    <string english="Game speed is normal." translation="게임 속도가 정상입니다." explanation="" max="38*2"/>
+    <string english="Game speed is at 80%" translation="게임 속도가 80%입니다." explanation="" max="38*2"/>
+    <string english="Game speed is at 60%" translation="게임 속도가 60%입니다." explanation="" max="38*2"/>
+    <string english="Game speed is at 40%" translation="게임 속도가 40%입니다." explanation="" max="38*2"/>
+    <string english="normal speed" translation="정상 속도" explanation="menu option"/>
+    <string english="80% speed" translation="80% 속도" explanation="menu option"/>
+    <string english="60% speed" translation="60% 속도" explanation="menu option"/>
+    <string english="40% speed" translation="40% 속도" explanation="menu option"/>
+    <string english="play intermission 1" translation="인터미션 1 플레이" explanation="menu option"/>
+    <string english="play intermission 2" translation="인터미션 2 플레이" explanation="menu option"/>
+    <string english="Who do you want to play the level with?" translation="누구와 함께 레벨을 플레이하고 싶으신가요?" explanation="choose your NPC companion" max="38*8"/>
+    <string english="time trials" translation="타임 트라이얼" explanation="menu option"/>
+    <string english="Time Trials" translation="타임 트라이얼" explanation="title" max="20"/>
+    <string english="Replay any level in the game in a competitive time trial mode." translation="경쟁 타임 트라이얼 모드에서 게임의 모든 레벨을 다시 플레이하세요." explanation="" max="38*4"/>
+    <string english="Time Trials are not available with slowdown or invincibility." translation="타임 트라이얼은 감속 또는 무적 상태에서 사용할 수 없습니다." explanation="" max="38*3"/>
+    <string english="unlock time trials" translation="타임 트라이얼 잠금 해제" explanation="menu option"/>
+    <string english="Unlock Time Trials" translation="타임 트라이얼 잠금 해제" explanation="title" max="20"/>
+    <string english="You can unlock each time trial separately." translation="각 타임 트라이얼을 개별적으로 잠금 해제할 수 있습니다." explanation="" max="38*5"/>
+    <string english="intermissions" translation="인터미션" explanation="menu option"/>
+    <string english="Intermissions" translation="인터미션" explanation="title" max="20"/>
+    <string english="Replay the intermission levels." translation="인터미션 레벨을 다시 플레이하세요." explanation="" max="38*3"/>
+    <string english="unlock intermissions" translation="인터미션 잠금 해제" explanation="menu option"/>
+    <string english="TO UNLOCK: Complete the intermission levels in-game." translation="잠금 해제 방법: 게임 내에서 인터미션 레벨을 완료하세요." explanation="" max="38*4"/>
+    <string english="no death mode" translation="노 데스 모드" explanation="menu option"/>
+    <string english="No Death Mode" translation="노 데스 모드" explanation="title" max="20"/>
+    <string english="Play the entire game without dying once." translation="한 번도 죽지 않고 게임 전체를 플레이합니다." explanation="" max="38*4"/>
+    <string english="No Death Mode is not available with slowdown or invincibility." translation="노데스 모드에서는 감속 또는 무적 상태가 적용되지 않습니다." explanation="" max="38*3"/>
+    <string english="unlock no death mode" translation="노 데스 모드 잠금 해제" explanation="menu option"/>
+    <string english="TO UNLOCK: Achieve an S-rank or above in at least 4 time trials." translation="잠금 해제 방법: 최소 4번의 도전에서 S등급 이상을 달성하세요." explanation="ranks are B A S V, see below" max="38*3"/>
+    <string english="flip mode" translation="플립 모드" explanation="menu option, mirrors the entire game vertically"/>
+    <string english="Flip Mode" translation="플립 모드" explanation="title, mirrors the entire game vertically" max="20"/>
+    <string english="Flip the entire game vertically." translation="게임 전체를 세로로 뒤집습니다." explanation="" max="38*2"/>
+    <string english="Flip the entire game vertically. Compatible with other game modes." translation="게임 전체를 세로로 뒤집습니다. 다른 게임 모드와 호환됩니다." explanation="" max="38*4"/>
+    <string english="unlock flip mode" translation="플립 모드 잠금 해제" explanation="menu option"/>
+    <string english="Currently ENABLED!" translation="현재 활성화됨!" explanation="flip mode" max="38*3"/>
+    <string english="Currently Disabled." translation="현재 비활성화됨." explanation="flip mode" max="38*3"/>
+    <string english="TO UNLOCK: Complete the game." translation="잠금 해제 방법: 게임을 완료하세요." explanation="" max="38*3"/>
+    <string english="Are you sure you want to quit?" translation="정말 종료하시겠습니까?" explanation="quit the program" max="38*4"/>
+    <string english="GAME OVER" translation="게임 오버" explanation="bigger title" max="13"/>
+    <string english="You managed to reach:" translation="도달했습니다:" explanation="you managed to reach the following room" max="40"/>
+    <string english="Keep trying! You&apos;ll get there!" translation="계속 도전하세요! 곧 도착할 거예요!" explanation="player died before managing to save anybody" max="38*2"/>
+    <string english="Nice one!" translation="잘했어요!" explanation="player died after saving one crewmate" max="38*2"/>
+    <string english="Wow! Congratulations!" translation="와우! 축하합니다!" explanation="player died after saving two crewmates" max="38*2"/>
+    <string english="Incredible!" translation="대단해요!" explanation="player died after saving three crewmates" max="38*2"/>
+    <string english="Unbelievable! Well done!" translation="믿기지 않아요! 잘했어요!" explanation="player died after saving four crewmates" max="38*2"/>
+    <string english="Er, how did you do that?" translation="어, 어떻게 한 거예요?" explanation="player died even though they were finished, lol" max="38*2"/>
+    <string english="WOW" translation="와우" explanation="even bigger title" max="10"/>
+    <string english="You rescued all the crewmates!" translation="모든 승무원을 구출했습니다!" explanation="" max="40"/>
+    <string english="A new trophy has been awarded and placed in the secret lab to acknowledge your achievement!" translation="새로운 트로피를 획득하고 비밀 실험실에 배치하여 업적을 인정받았습니다!" explanation="" max="38*4"/>
+    <string english="[Trinkets found]" translation="[획득 트링킷]" explanation="amount of shiny trinkets found" max="40"/>
+    <string english="[Number of Deaths]" translation="[사망 횟수]" explanation="" max="40"/>
+    <string english="[Time Taken]" translation="[소요 시간]" explanation="stopwatch time" max="40"/>
+    <string english="Trinkets Found:" translation="발견한 트링킷:" explanation="game complete screen" max="21"/>
+    <string english="Game Time:" translation="게임 시간:" explanation="game complete screen" max="21"/>
+    <string english="Total Flips:" translation="총 플립 횟수:" explanation="game complete screen" max="21"/>
+    <string english="Total Deaths:" translation="총 사망 횟수:" explanation="game complete screen" max="21"/>
+    <string english="Results" translation="게임 결과" explanation="bigger title" max="13"/>
+    <string english="TIME TAKEN:" translation="소요 시간:" explanation="time the player took playing the level" max="32"/>
+    <string english="NUMBER OF DEATHS:" translation="사망 횟수:" explanation="amount of times the player died" max="32"/>
+    <string english="SHINY TRINKETS:" translation="트링킷:" explanation="amount of trinkets collected" max="32"/>
+    <string english="/" translation=" / " explanation="inserted between two times, ex: 0:46.90 / 1:15.99. Time trial results"/>
+    <string english="{n_trinkets}/{max_trinkets}" translation="{n_trinkets}/{max_trinkets}" explanation="ex: 2/5"/>
+    <string english="{n_trinkets} of {max_trinkets}" translation="{max_trinkets} 중에 {n_trinkets}" explanation="ex: 2 of 5"/>
+    <string english="{n_trinkets|wordy} out of {max_trinkets|wordy}" translation="{max_trinkets|wordy} 중에 {n_trinkets|wordy}" explanation="ex: One out of Twenty, see numbers.xml. You can add |upper for an uppercase letter." max="34"/>
+    <string english="{savebox_n_trinkets|wordy}" translation="{savebox_n_trinkets|wordy}" explanation="trinket count in telesave/quicksave information box. You can add |upper for an uppercase letter."/>
+    <string english="{gamecomplete_n_trinkets|wordy}" translation="{gamecomplete_n_trinkets|wordy}" explanation="trinket count on Game Complete screen (after Trinkets Found:) You can add |upper for an uppercase letter."/>
+    <string english="+1 Rank!" translation="+1 Rank!" explanation="time trial rank was upgraded (B → A → S → V). B is minimum, which is purposefully high (see it as 7/10) - S is a popular rank above A in a lot of games, so VVVVVV added a rank above that." max="12"/>
+    <string english="Rank:" translation="Rank:" explanation="time trial rank" max="9"/>
+    <string english="B" translation="B" explanation="time trial rank" max="5"/>
+    <string english="A" translation="A" explanation="time trial rank" max="5"/>
+    <string english="S" translation="S" explanation="time trial rank" max="5"/>
+    <string english="V" translation="V" explanation="time trial rank" max="5"/>
+    <string english="space station 1" translation="우주정거장 1" explanation="area name as menu option"/>
+    <string english="Space Station 1" translation="우주정거장 1" explanation="area name as title" max="20"/>
+    <string english="space station 2" translation="우주정거장 2" explanation="area name as menu option"/>
+    <string english="Space Station 2" translation="우주정거장 2" explanation="area name as title" max="20"/>
+    <string english="the laboratory" translation="실험실" explanation="area name as menu option"/>
+    <string english="The Laboratory" translation="실험실" explanation="area name as title" max="20"/>
+    <string english="the tower" translation="타워" explanation="area name as menu option"/>
+    <string english="The Tower" translation="타워" explanation="area name as title" max="20"/>
+    <string english="the warp zone" translation="워프존" explanation="area name as menu option"/>
+    <string english="The Warp Zone" translation="워프존" explanation="area name as title" max="20"/>
+    <string english="the final level" translation="파이널 레벨" explanation="area name as menu option"/>
+    <string english="The Final Level" translation="파이널 레벨" explanation="area name as title" max="20"/>
+    <string english="intermission 1" translation="인터미션 1" explanation="area name as menu option"/>
+    <string english="Intermission 1" translation="인터미션 1" explanation="area name as title" max="20"/>
+    <string english="intermission 2" translation="인터미션 2" explanation="area name as menu option"/>
+    <string english="Intermission 2" translation="인터미션 2" explanation="area name as title" max="20"/>
     <string english="???" translation="" explanation="locked area" max="20"/>
     <string english="Not yet attempted" translation="" explanation="" max="38*2"/>
     <string english="TO UNLOCK:" translation="" explanation="followed by `Rescue XX`/`Complete the game`, and then `Find XX trinkets`" max="40"/>
-    <string english="Rescue Violet" translation="" explanation="" max="40"/>
-    <string english="Rescue Victoria" translation="" explanation="" max="40"/>
-    <string english="Rescue Vermilion" translation="" explanation="" max="40"/>
-    <string english="Rescue Vitellary" translation="" explanation="" max="40"/>
-    <string english="Rescue Verdigris" translation="" explanation="" max="40"/>
-    <string english="Complete the game" translation="" case="0" explanation="" max="40"/>
-    <string english="Find three trinkets" translation="" explanation="" max="40"/>
-    <string english="Find six trinkets" translation="" explanation="" max="40"/>
-    <string english="Find nine trinkets" translation="" explanation="" max="40"/>
-    <string english="Find twelve trinkets" translation="" explanation="" max="40"/>
-    <string english="Find fifteen trinkets" translation="" explanation="" max="40"/>
-    <string english="Find eighteen trinkets" translation="" explanation="" max="40"/>
-    <string english="RECORDS" translation="" explanation="followed by a list of personal bests for TIME, SHINY and LIVES. So `records` as in `world records`, except for yourself" max="15"/>
-    <string english="TIME" translation="" explanation="record time" max="8"/>
-    <string english="SHINY" translation="" explanation="record number of trinkets" max="8"/>
-    <string english="LIVES" translation="" explanation="record lowest number of deaths" max="8"/>
-    <string english="PAR TIME" translation="" explanation="followed by the goal time for this time trial" max="14"/>
-    <string english="TIME:" translation="" explanation="in time trial. Stopwatch time, not too long"/>
-    <string english="DEATH:" translation="" explanation="in time trial. Number of times player died, not too long"/>
-    <string english="SHINY:" translation="" explanation="in time trial. Number of shiny trinkets collected, not too long"/>
-    <string english="PAR TIME:" translation="" explanation="in time trial. Goal time for time trial"/>
-    <string english="BEST RANK" translation="" explanation="ranks are B A S V" max="14"/>
-    <string english="GO!" translation="" explanation="3, 2, 1, GO!" max="13"/>
-    <string english="Go!" translation="" explanation="3, 2, 1, Go!" max="10"/>
-    <string english="Congratulations!" translation="" explanation="title" max="20"/>
-    <string english="Your save files have been updated." translation="" explanation="player completed game" max="38*6"/>
-    <string english="If you want to keep exploring the game, select CONTINUE from the play menu." translation="" explanation="" max="38*9"/>
-    <string english="You have unlocked a new Time Trial." translation="" explanation="" max="38*7"/>
-    <string english="You have unlocked some new Time Trials." translation="" explanation="" max="38*7"/>
-    <string english="You have unlocked No Death Mode." translation="" explanation="" max="38*7"/>
-    <string english="You have unlocked Flip Mode." translation="" explanation="" max="38*7"/>
-    <string english="You have unlocked the intermission levels." translation="" explanation="" max="38*7"/>
-    <string english="play a level" translation="" explanation="menu option"/>
-    <string english="level editor" translation="" explanation="menu option"/>
-    <string english="open level folder" translation="" explanation="menu option. Button that opens the folder with level files in a file explorer"/>
-    <string english="show level folder path" translation="" explanation="menu option"/>
-    <string english="return" translation="" explanation="menu option"/>
-    <string english="return to levels" translation="" explanation="menu option"/>
-    <string english="no, don&apos;t show me" translation="" explanation="menu option"/>
-    <string english="yes, reveal the path" translation="" explanation="menu option. Path to the levels folder"/>
-    <string english="return to play menu" translation="" explanation="menu option" max="36"/>
-    <string english="try again" translation="" explanation="menu option, retry time trial" max="36"/>
-    <string english="ok" translation="" explanation="button, which is a menu option, so lowercase"/>
-    <string english="next page" translation="" explanation="menu option"/>
-    <string english="previous page" translation="" explanation="menu option"/>
-    <string english="first page" translation="" explanation="menu option"/>
-    <string english="last page" translation="" explanation="menu option"/>
-    <string english="silence" translation="" explanation="menu option, silence error message - do not show this message again"/>
-    <string english="continue from save" translation="" explanation="menu option"/>
-    <string english="start from beginning" translation="" explanation="menu option"/>
-    <string english="delete save" translation="" explanation="menu option"/>
-    <string english="back to levels" translation="" explanation="menu option"/>
-    <string english="To install new player levels, copy the .vvvvvv files to the levels folder." translation="" explanation="" max="38*3"/>
-    <string english="Are you sure you want to show the levels path? This may reveal sensitive information if you are streaming." translation="" explanation="" max="38*4"/>
+    <string english="Rescue Violet" translation="Violet을 구했습니다" explanation="" max="40"/>
+    <string english="Rescue Victoria" translation="Victoria를 구했습니다" explanation="" max="40"/>
+    <string english="Rescue Vermilion" translation="Vermilion을 구했습니다" explanation="" max="40"/>
+    <string english="Rescue Vitellary" translation="Vitellary를 구했습니다" explanation="" max="40"/>
+    <string english="Rescue Verdigris" translation="Verdigris를 구했습니다" explanation="" max="40"/>
+    <string english="Complete the game" translation="게임 완료" case="0" explanation="" max="40"/>
+    <string english="Find three trinkets" translation="3개의 트링킷을 찾았습니다" explanation="" max="40"/>
+    <string english="Find six trinkets" translation="6개의 트링킷을 찾았습니다" explanation="" max="40"/>
+    <string english="Find nine trinkets" translation="9개의 트링킷을 찾았습니다" explanation="" max="40"/>
+    <string english="Find twelve trinkets" translation="12개의 트링킷을 찾았습니다" explanation="" max="40"/>
+    <string english="Find fifteen trinkets" translation="15개의 트링킷을 찾았습니다" explanation="" max="40"/>
+    <string english="Find eighteen trinkets" translation="18개의 트링킷을 찾았습니다" explanation="" max="40"/>
+    <string english="RECORDS" translation="기록" explanation="followed by a list of personal bests for TIME, SHINY and LIVES. So `records` as in `world records`, except for yourself" max="15"/>
+    <string english="TIME" translation="시간" explanation="record time" max="8"/>
+    <string english="SHINY" translation="트링킷수" explanation="record number of trinkets" max="8"/>
+    <string english="LIVES" translation="사망횟수" explanation="record lowest number of deaths" max="8"/>
+    <string english="PAR TIME" translation="성공시간" explanation="followed by the goal time for this time trial" max="14"/>
+    <string english="TIME:" translation="시간:" explanation="in time trial. Stopwatch time, not too long"/>
+    <string english="DEATH:" translation="사망횟수:" explanation="in time trial. Number of times player died, not too long"/>
+    <string english="SHINY:" translation="트링킷수:" explanation="in time trial. Number of shiny trinkets collected, not too long"/>
+    <string english="PAR TIME:" translation="성공시간:" explanation="in time trial. Goal time for time trial"/>
+    <string english="BEST RANK" translation="최고기록" explanation="ranks are B A S V" max="14"/>
+    <string english="GO!" translation="출발!" explanation="3, 2, 1, GO!" max="13"/>
+    <string english="Go!" translation="출발!" explanation="3, 2, 1, Go!" max="10"/>
+    <string english="Congratulations!" translation="축하합니다!" explanation="title" max="20"/>
+    <string english="Your save files have been updated." translation="저장 파일이 업데이트되었습니다." explanation="player completed game" max="38*6"/>
+    <string english="If you want to keep exploring the game, select CONTINUE from the play menu." translation="게임을 계속 탐색하려면 재생 메뉴에서 계속을 선택합니다." explanation="" max="38*9"/>
+    <string english="You have unlocked a new Time Trial." translation="새 타임 트라이얼의 잠금을 해제했습니다." explanation="" max="38*7"/>
+    <string english="You have unlocked some new Time Trials." translation="일부 새 타임 트라이얼의 잠금을 해제했습니다." explanation="" max="38*7"/>
+    <string english="You have unlocked No Death Mode." translation="노 데스 모드의 잠금을 해제했습니다." explanation="" max="38*7"/>
+    <string english="You have unlocked Flip Mode." translation="플립 모드의 잠금을 해제했습니다." explanation="" max="38*7"/>
+    <string english="You have unlocked the intermission levels." translation="인터미션 레벨의 잠금을 해제했습니다." explanation="" max="38*7"/>
+    <string english="play a level" translation="레벨 시작" explanation="menu option"/>
+    <string english="level editor" translation="레벨 편집" explanation="menu option"/>
+    <string english="open level folder" translation="레벨 폴더 열기" explanation="menu option. Button that opens the folder with level files in a file explorer"/>
+    <string english="show level folder path" translation="레벨 폴더 경로 보기" explanation="menu option"/>
+    <string english="return" translation="되돌아가기" explanation="menu option"/>
+    <string english="return to levels" translation="레벨로 되돌아가기" explanation="menu option"/>
+    <string english="no, don&apos;t show me" translation="아니요, 다시 보지 않기" explanation="menu option"/>
+    <string english="yes, reveal the path" translation="네, 경로 보기" explanation="menu option. Path to the levels folder"/>
+    <string english="return to play menu" translation="플레이 메뉴로 돌아가기" explanation="menu option" max="36"/>
+    <string english="try again" translation="재시도" explanation="menu option, retry time trial" max="36"/>
+    <string english="ok" translation="확인" explanation="button, which is a menu option, so lowercase"/>
+    <string english="next page" translation="다음 페이지" explanation="menu option"/>
+    <string english="previous page" translation="이전 페이지" explanation="menu option"/>
+    <string english="first page" translation="처음 페이지" explanation="menu option"/>
+    <string english="last page" translation="마지막 페이지" explanation="menu option"/>
+    <string english="silence" translation="무음" explanation="menu option, silence error message - do not show this message again"/>
+    <string english="continue from save" translation="저장후 계속" explanation="menu option"/>
+    <string english="start from beginning" translation="처음부터 시작" explanation="menu option"/>
+    <string english="delete save" translation="저장 삭제" explanation="menu option"/>
+    <string english="back to levels" translation="레벨로 되돌아가기" explanation="menu option"/>
+    <string english="To install new player levels, copy the .vvvvvv files to the levels folder." translation="새 플레이어 레벨을 설치하려면 .vvvvvv 파일을 레벨 폴더에 복사하세요." explanation="" max="38*3"/>
+    <string english="Are you sure you want to show the levels path? This may reveal sensitive information if you are streaming." translation="레벨 경로를 표시하시겠습니까? 스트리밍 중인 경우 민감한 정보가 노출될 수 있습니다." explanation="" max="38*4"/>
     <string english="The levels path is:" translation="" explanation="" max="40"/>
     <string english="[ Press ACTION to Start ]" translation="" explanation="***OUTDATED***" max="38*2"/>
     <string english="[ Press {button} to Start ]" translation="" explanation="title screen. Expect `ACTION`" max="38*2"/>
@@ -450,17 +450,17 @@
     <string english="CREW" translation="" explanation="in-game menu" max="8"/>
     <string english="STATS" translation="" explanation="in-game menu" max="8"/>
     <string english="SAVE" translation="" explanation="in-game menu" max="8"/>
-    <string english="[ PAUSE ]" translation="" explanation="in-game menu" max="40"/>
-    <string english="[ QUIT ]" translation="" explanation="in-game menu" max="40"/>
-    <string english="[ GRAVITRON ]" translation="" explanation="in-game menu" max="40"/>
-    <string english="NO SIGNAL" translation="" explanation="map screen. So like a TV/computer monitor" max="29"/>
+    <string english="[ PAUSE ]" translation="[ 일시중지 ]" explanation="in-game menu" max="40"/>
+    <string english="[ QUIT ]" translation="[ 종료 ]" explanation="in-game menu" max="40"/>
+    <string english="[ GRAVITRON ]" translation="[ 그라비트론 ]" explanation="in-game menu" max="40"/>
+    <string english="NO SIGNAL" translation="신호없음" explanation="map screen. So like a TV/computer monitor" max="29"/>
     <string english="Press ACTION to warp to the ship." translation="" explanation="***OUTDATED***" max="38*7"/>
     <string english="Press {button} to warp to the ship." translation="" explanation="spaceship. Warp = teleport. Expect `ACTION`" max="38*7"/>
-    <string english="Missing..." translation="" case="1" explanation="this male crew member is missing" max="15"/>
-    <string english="Missing..." translation="" case="2" explanation="this female crew member is missing" max="15"/>
-    <string english="Missing..." translation="" case="3" explanation="Viridian is missing (final level). You could even fill in something like `Uh-oh...` here if you really have to specify gender otherwise - everyone else is rescued, but the player is missing" max="15"/>
-    <string english="Rescued!" translation="" case="1" explanation="this male crew member is not missing anymore" max="15"/>
-    <string english="Rescued!" translation="" case="2" explanation="this female crew member is not missing anymore" max="15"/>
+    <string english="Missing..." translation="실종…" case="1" explanation="this male crew member is missing" max="15"/>
+    <string english="Missing..." translation="실종…" case="2" explanation="this female crew member is missing" max="15"/>
+    <string english="Missing..." translation="실종…" case="3" explanation="Viridian is missing (final level). You could even fill in something like `Uh-oh...` here if you really have to specify gender otherwise - everyone else is rescued, but the player is missing" max="15"/>
+    <string english="Rescued!" translation="구조!" case="1" explanation="this male crew member is not missing anymore" max="15"/>
+    <string english="Rescued!" translation="구조!" case="2" explanation="this female crew member is not missing anymore" max="15"/>
     <string english="(that&apos;s you!)" translation="" explanation="this crew member is you (Viridian)" max="15"/>
     <string english="Cannot Save in Level Replay" translation="" explanation="in-game menu" max="38*7"/>
     <string english="Cannot Save in No Death Mode" translation="" explanation="in-game menu" max="38*7"/>
@@ -524,7 +524,7 @@
     <string english="change font" translation="" explanation="level editor menu option"/>
     <string english="Level Font" translation="" explanation="title, editor, font that a custom level will show up in. You can select a language name here (like Chinese or Japanese which have different fonts, or `other`)" max="20"/>
     <string english="Select the language in which the text in this level is written." translation="" explanation="" max="38*3"/>
-    <string english="Font: " translation="" explanation="level options, followed by name of font (mind the space)" max="14"/>
+    <string english="Font:" translation="" explanation="level options, followed by name of font (mind the space)" max="14"/>
     <string english="Map Music" translation="" explanation="title, editor, music that starts playing when a level is started. Can be changed with scripting later, so this is really just initial music" max="20"/>
     <string english="Current map music:" translation="" explanation="editor, followed by the number and name of a song, or `No background music`. Can be changed with scripting later, so this is really just initial music" max="38*2"/>
     <string english="No background music" translation="" explanation="editor, level starts with no song playing" max="38*2"/>
@@ -544,9 +544,9 @@
     <string english="11: Piercing the Sky" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
     <string english="N/A: Predestined Fate Remix" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
     <string english="?: something else" translation="" explanation="editor, song was not recognized" max="38*2"/>
-    <string english="next song" translation="" explanation="level editor menu option"/>
-    <string english="previous song" translation="" explanation="level editor menu option"/>
-    <string english="back" translation="" explanation="level editor menu option"/>
+    <string english="next song" translation="다음 곡" explanation="level editor menu option"/>
+    <string english="previous song" translation="이전 곡" explanation="level editor menu option"/>
+    <string english="back" translation="뒤로" explanation="level editor menu option"/>
     <string english="Save before quitting?" translation="" explanation="level editor" max="38*4"/>
     <string english="yes, save and quit" translation="" explanation="level editor menu option"/>
     <string english="no, quit without saving" translation="" explanation="level editor menu option"/>
@@ -680,14 +680,20 @@
     <string english="Please be alright, everyone..." translation="" explanation="Violet speaking via Comms Relay" max="25*4"/>
     <string english="Congratulations!
 
-You have found a shiny trinket!" translation="" explanation="" max="34*4"/>
+You have found a shiny trinket!" translation="축하합니다!
+
+빛나는 트링킷을 찾았습니다!" max="34*4"/>
     <string english="Congratulations!
 
-You have found a lost crewmate!" translation="" explanation="" max="34*4"/>
+You have found a lost crewmate!" translation="축하합니다!
+
+실종된 승무원을 찾았습니다!" max="34*4"/>
     <string english="Congratulations!
 
-You have found the secret lab!" translation="" explanation="" max="34*4"/>
-    <string english="The secret lab is separate from the rest of the game. You can now come back here at any time by selecting the new SECRET LAB option in the play menu." translation="" explanation="" max="36*10"/>
+You have found the secret lab!" translation="축하합니다!
+
+비밀 실험실을 찾았습니다!" max="34*4"/>
+    <string english="The secret lab is separate from the rest of the game. You can now come back here at any time by selecting the new SECRET LAB option in the play menu." translation="비밀 실험실은 게임의 나머지 부분과 분리되어 있습니다. 이제 플레이 메뉴에서 새로운 비밀 실험실 옵션을 선택하면 언제든지 이곳으로 돌아올 수 있습니다." max="36*10"/>
     <string english="Viridian" translation="" explanation="crewmate name (player)" max="15"/>
     <string english="Violet" translation="" explanation="crewmate name" max="15"/>
     <string english="Vitellary" translation="" case="0" explanation="crewmate name" max="15"/>
@@ -705,62 +711,62 @@ You have found the secret lab!" translation="" explanation="" max="34*4"/>
     <string english="Officer Vermilion" translation="" explanation="credits roll. Starring the following 6 crew members" max="27"/>
     <string english="Chief Verdigris" translation="" explanation="credits roll. Starring the following 6 crew members" max="27"/>
     <string english="Doctor Victoria" translation="" explanation="credits roll. Starring the following 6 crew members" max="27"/>
-    <string english="When you&apos;re standing on the floor, Vitellary will try to walk to you." translation="" explanation="Intermission 1" max="34*4"/>
-    <string english="When you&apos;re standing on the floor, Vermilion will try to walk to you." translation="" explanation="Intermission 1" max="34*4"/>
-    <string english="When you&apos;re standing on the floor, Verdigris will try to walk to you." translation="" explanation="Intermission 1" max="34*4"/>
-    <string english="When you&apos;re standing on the floor, Victoria will try to walk to you." translation="" explanation="Intermission 1" max="34*4"/>
-    <string english="When you&apos;re standing on the floor, your companion will try to walk to you." translation="" explanation="Intermission 1, unknown companion, normally impossible but reproducible in custom levels" max="34*4"/>
-    <string english="When you&apos;re standing on the ceiling, Vitellary will try to walk to you." translation="" explanation="Intermission 1 in flip mode" max="34*4"/>
-    <string english="When you&apos;re standing on the ceiling, Vermilion will try to walk to you." translation="" explanation="Intermission 1 in flip mode" max="34*4"/>
-    <string english="When you&apos;re standing on the ceiling, Verdigris will try to walk to you." translation="" explanation="Intermission 1 in flip mode" max="34*4"/>
-    <string english="When you&apos;re standing on the ceiling, Victoria will try to walk to you." translation="" explanation="Intermission 1 in flip mode" max="34*4"/>
-    <string english="When you&apos;re standing on the ceiling, your companion will try to walk to you." translation="" explanation="Intermission 1 in flip mode, unknown companion, normally impossible but reproducible in custom levels" max="34*4"/>
-    <string english="When you&apos;re NOT standing on the floor, Vitellary will stop and wait for you." translation="" explanation="Intermission 1" max="34*4"/>
-    <string english="When you&apos;re NOT standing on the floor, Vermilion will stop and wait for you." translation="" explanation="Intermission 1" max="34*4"/>
-    <string english="When you&apos;re NOT standing on the floor, Verdigris will stop and wait for you." translation="" explanation="Intermission 1" max="34*4"/>
-    <string english="When you&apos;re NOT standing on the floor, Victoria will stop and wait for you." translation="" explanation="Intermission 1" max="34*4"/>
-    <string english="When you&apos;re NOT standing on the floor, your companion will stop and wait for you." translation="" explanation="Intermission 1, unknown companion, normally impossible but reproducible in custom levels" max="34*4"/>
-    <string english="When you&apos;re NOT standing on the ceiling, Vitellary will stop and wait for you." translation="" explanation="Intermission 1 in flip mode" max="34*4"/>
-    <string english="When you&apos;re NOT standing on the ceiling, Vermilion will stop and wait for you." translation="" explanation="Intermission 1 in flip mode" max="34*4"/>
-    <string english="When you&apos;re NOT standing on the ceiling, Verdigris will stop and wait for you." translation="" explanation="Intermission 1 in flip mode" max="34*4"/>
-    <string english="When you&apos;re NOT standing on the ceiling, Victoria will stop and wait for you." translation="" explanation="Intermission 1 in flip mode" max="34*4"/>
-    <string english="When you&apos;re NOT standing on the ceiling, your companion will stop and wait for you." translation="" explanation="Intermission 1 in flip mode, unknown companion, normally impossible but reproducible in custom levels" max="34*4"/>
-    <string english="You can&apos;t continue to the next room until he is safely across." translation="" explanation="Intermission 1" max="34*4"/>
-    <string english="You can&apos;t continue to the next room until she is safely across." translation="" explanation="Intermission 1" max="34*4"/>
-    <string english="You can&apos;t continue to the next room until they are safely across." translation="" explanation="Intermission 1, unknown companion, normally impossible but reproducible in custom levels" max="34*4"/>
-    <string english="Survive for" translation="" explanation="Gravitron. Line 1/2: Survive for 60 seconds!" max="20"/>
-    <string english="60 seconds!" translation="" explanation="Gravitron. Line 2/2: Survive for 60 seconds!" max="20"/>
-    <string english="Thanks for" translation="" explanation="credits. Line 1/2: Thanks for playing!" max="20"/>
-    <string english="playing!" translation="" explanation="credits. Line 2/2: Thanks for playing!" max="20"/>
-    <string english="SPACE STATION 1 MASTERED" translation="" explanation="achievement/trophy title" max="38*2"/>
-    <string english="LABORATORY MASTERED" translation="" explanation="achievement/trophy title - V rank in time trial" max="38*2"/>
-    <string english="THE TOWER MASTERED" translation="" explanation="achievement/trophy title - V rank in time trial" max="38*2"/>
-    <string english="SPACE STATION 2 MASTERED" translation="" explanation="achievement/trophy title - V rank in time trial" max="38*2"/>
-    <string english="WARP ZONE MASTERED" translation="" explanation="achievement/trophy title - V rank in time trial" max="38*2"/>
-    <string english="FINAL LEVEL MASTERED" translation="" explanation="achievement/trophy title - V rank in time trial" max="38*2"/>
-    <string english="Obtain a V Rank in this Time Trial" translation="" explanation="achievement/trophy description" max="38*2"/>
-    <string english="GAME COMPLETE" translation="" explanation="achievement/trophy title" max="38*2"/>
-    <string english="Complete the game" translation="" case="1" explanation="achievement/trophy description" max="38*2"/>
-    <string english="FLIP MODE COMPLETE" translation="" explanation="achievement/trophy title" max="38*2"/>
-    <string english="Complete the game in flip mode" translation="" explanation="achievement/trophy description" max="38*2"/>
-    <string english="Win with less than 50 deaths" translation="" explanation="achievement/trophy description" max="38*2"/>
-    <string english="Win with less than 100 deaths" translation="" explanation="achievement/trophy description" max="38*2"/>
-    <string english="Win with less than 250 deaths" translation="" explanation="achievement/trophy description" max="38*2"/>
-    <string english="Win with less than 500 deaths" translation="" explanation="achievement/trophy description" max="38*2"/>
+    <string english="When you&apos;re standing on the floor, Vitellary will try to walk to you." translation="바닥에 서 있으면 Vitellary가 내게 걸어오려고 시도합니다." explanation="Intermission 1" max="34*4"/>
+    <string english="When you&apos;re standing on the floor, Vermilion will try to walk to you." translation="바닥에 서 있으면 Vermilion이 내게 걸어오려고 시도합니다." explanation="Intermission 1" max="34*4"/>
+    <string english="When you&apos;re standing on the floor, Verdigris will try to walk to you." translation="바닥에 서 있으면 Verdigris가 내게 걸어오려고 시도합니다." explanation="Intermission 1" max="34*4"/>
+    <string english="When you&apos;re standing on the floor, Victoria will try to walk to you." translation="바닥에 서 있으면 Victoria가 내게 걸어오려고 시도합니다." explanation="Intermission 1" max="34*4"/>
+    <string english="When you&apos;re standing on the floor, your companion will try to walk to you." translation="바닥에 서 있으면 동반자가 내게 걸어오려고 시도합니다." explanation="Intermission 1, unknown companion, normally impossible but reproducible in custom levels" max="34*4"/>
+    <string english="When you&apos;re standing on the ceiling, Vitellary will try to walk to you." translation="천장에 서 있으면 Vitellary가 내게 걸어오려고 시도합니다." explanation="Intermission 1 in flip mode" max="34*4"/>
+    <string english="When you&apos;re standing on the ceiling, Vermilion will try to walk to you." translation="천장에 서 있으면 Vermilion이 내게 걸어오려고 시도합니다." explanation="Intermission 1 in flip mode" max="34*4"/>
+    <string english="When you&apos;re standing on the ceiling, Verdigris will try to walk to you." translation="천장에 서 있으면 Verdigris가 내게 걸어오려고 시도합니다." explanation="Intermission 1 in flip mode" max="34*4"/>
+    <string english="When you&apos;re standing on the ceiling, Victoria will try to walk to you." translation="천장에 서 있으면 Victoria가 내게 걸어오려고 시도합니다." explanation="Intermission 1 in flip mode" max="34*4"/>
+    <string english="When you&apos;re standing on the ceiling, your companion will try to walk to you." translation="천장에 서 있으면 동반자가 내게 걸어오려고 시도합니다." explanation="Intermission 1 in flip mode, unknown companion, normally impossible but reproducible in custom levels" max="34*4"/>
+    <string english="When you&apos;re NOT standing on the floor, Vitellary will stop and wait for you." translation="바닥에 서 있지 않으면 Vitellary가 멈춰서 당신을 기다립니다." explanation="Intermission 1" max="34*4"/>
+    <string english="When you&apos;re NOT standing on the floor, Vermilion will stop and wait for you." translation="바닥에 서 있지 않으면 Vermilion이 멈춰서 당신을 기다립니다." explanation="Intermission 1" max="34*4"/>
+    <string english="When you&apos;re NOT standing on the floor, Verdigris will stop and wait for you." translation="바닥에 서 있지 않으면 Verdigris가 멈춰서 당신을 기다립니다." explanation="Intermission 1" max="34*4"/>
+    <string english="When you&apos;re NOT standing on the floor, Victoria will stop and wait for you." translation="바닥에 서 있지 않으면 Victoria가 멈춰서 당신을 기다립니다." explanation="Intermission 1" max="34*4"/>
+    <string english="When you&apos;re NOT standing on the floor, your companion will stop and wait for you." translation="바닥에 서 있지 않으면 동반자가 멈춰서 당신을 기다립니다." explanation="Intermission 1, unknown companion, normally impossible but reproducible in custom levels" max="34*4"/>
+    <string english="When you&apos;re NOT standing on the ceiling, Vitellary will stop and wait for you." translation="천장에 서 있지 않으면 Vitellary가 멈춰서 당신을 기다립니다." explanation="Intermission 1 in flip mode" max="34*4"/>
+    <string english="When you&apos;re NOT standing on the ceiling, Vermilion will stop and wait for you." translation="천장에 서 있지 않으면 Vermilion이 멈춰서 당신을 기다립니다." explanation="Intermission 1 in flip mode" max="34*4"/>
+    <string english="When you&apos;re NOT standing on the ceiling, Verdigris will stop and wait for you." translation="천장에 서 있지 않으면 Verdigris가 멈춰서 당신을 기다립니다." explanation="Intermission 1 in flip mode" max="34*4"/>
+    <string english="When you&apos;re NOT standing on the ceiling, Victoria will stop and wait for you." translation="천장에 서 있지 않으면 Victoria가 멈춰서 당신을 기다립니다." explanation="Intermission 1 in flip mode" max="34*4"/>
+    <string english="When you&apos;re NOT standing on the ceiling, your companion will stop and wait for you." translation="천장에 서 있지 않으면 동반자가 멈춰서 당신을 기다립니다." explanation="Intermission 1 in flip mode, unknown companion, normally impossible but reproducible in custom levels" max="34*4"/>
+    <string english="You can&apos;t continue to the next room until he is safely across." translation="동반자가 안전하게 건너갈 때까지 다음 방으로 계속 진행할 수 없습니다." explanation="Intermission 1" max="34*4"/>
+    <string english="You can&apos;t continue to the next room until she is safely across." translation="동반자가 안전하게 건너갈 때까지 다음 방으로 계속 진행할 수 없습니다." explanation="Intermission 1" max="34*4"/>
+    <string english="You can&apos;t continue to the next room until they are safely across." translation="동반자가 안전하게 건너갈 때까지 다음 방으로 계속 진행할 수 없습니다." explanation="Intermission 1, unknown companion, normally impossible but reproducible in custom levels" max="34*4"/>
+    <string english="Survive for" translation="60초 동안" explanation="Gravitron. Line 1/2: Survive for 60 seconds!" max="20"/>
+    <string english="60 seconds!" translation="생존하세요!" explanation="Gravitron. Line 2/2: Survive for 60 seconds!" max="20"/>
+    <string english="Thanks for" translation="참여해 주셔서" explanation="credits. Line 1/2: Thanks for playing!" max="20"/>
+    <string english="playing!" translation="감사합니다!" explanation="credits. Line 2/2: Thanks for playing!" max="20"/>
+    <string english="SPACE STATION 1 MASTERED" translation="우주 정거장 1 마스터" explanation="achievement/trophy title" max="38*2"/>
+    <string english="LABORATORY MASTERED" translation="실험실 마스터" explanation="achievement/trophy title - V rank in time trial" max="38*2"/>
+    <string english="THE TOWER MASTERED" translation="타워 마스터" explanation="achievement/trophy title - V rank in time trial" max="38*2"/>
+    <string english="SPACE STATION 2 MASTERED" translation="우주 정거장 2 마스터" explanation="achievement/trophy title - V rank in time trial" max="38*2"/>
+    <string english="WARP ZONE MASTERED" translation="워프 구역 마스터" explanation="achievement/trophy title - V rank in time trial" max="38*2"/>
+    <string english="FINAL LEVEL MASTERED" translation="최종 레벨 마스터" explanation="achievement/trophy title - V rank in time trial" max="38*2"/>
+    <string english="Obtain a V Rank in this Time Trial" translation="이 타임 트라이얼에서 V 랭크 달성하기" explanation="achievement/trophy description" max="38*2"/>
+    <string english="GAME COMPLETE" translation="게임 완료" explanation="achievement/trophy title" max="38*2"/>
+    <string english="Complete the game" translation="게임 완료" case="1" explanation="achievement/trophy description" max="38*2"/>
+    <string english="FLIP MODE COMPLETE" translation="플립 모드 완료" explanation="achievement/trophy title" max="38*2"/>
+    <string english="Complete the game in flip mode" translation="플립 모드에서 게임 완료" explanation="achievement/trophy description" max="38*2"/>
+    <string english="Win with less than 50 deaths" translation="50번 미만의 죽음으로 승리" explanation="achievement/trophy description" max="38*2"/>
+    <string english="Win with less than 100 deaths" translation="100번 미만의 죽음으로 승리" explanation="achievement/trophy description" max="38*2"/>
+    <string english="Win with less than 250 deaths" translation="250번 미만의 죽음으로 승리" explanation="achievement/trophy description" max="38*2"/>
+    <string english="Win with less than 500 deaths" translation="500번 미만의 죽음으로 승리" explanation="achievement/trophy description" max="38*2"/>
     <string english="Last 5 seconds on the Super Gravitron" translation="" explanation="achievement/trophy description" max="38*2"/>
     <string english="Last 10 seconds on the Super Gravitron" translation="" explanation="achievement/trophy description" max="38*2"/>
     <string english="Last 15 seconds on the Super Gravitron" translation="" explanation="achievement/trophy description" max="38*2"/>
     <string english="Last 20 seconds on the Super Gravitron" translation="" explanation="achievement/trophy description" max="38*2"/>
     <string english="Last 30 seconds on the Super Gravitron" translation="" explanation="achievement/trophy description" max="38*2"/>
     <string english="Last 1 minute on the Super Gravitron" translation="" explanation="achievement/trophy description" max="38*2"/>
-    <string english="MASTER OF THE UNIVERSE" translation="" explanation="achievement/trophy title - no death mode complete" max="38*2"/>
-    <string english="Complete the game in no death mode" translation="" explanation="achievement/trophy description" max="38*2"/>
-    <string english="Something went wrong, but we forgot to print an error message." translation="" explanation="the message that is printed in case the game detects an error but there&apos;s no error message set" max="38*6"/>
-    <string english="Could not mount {path}: real directory doesn&apos;t exist" translation="" explanation="mount: link/attach a directory (folder) in the filesystem into the game&apos;s filesystem so we can access it" max="38*6"/>
-    <string english="Level {path} not found" translation="" explanation="" max="38*6"/>
-    <string english="Error parsing {path}: {error}" translation="" explanation="we tried to parse the level file, but failed" max="38*6"/>
-    <string english="{filename} dimensions not exact multiples of {width} by {height}!" translation="" explanation="filename is something like tiles.png, tiles2.png, etc. and width/height are something like 8, 32, etc.; this is used if the dimensions of a graphics file aren&apos;t an exact multiple of the given size (e.g. 8x8, 32x32, etc.)" max="38*6"/>
-    <string english="ERROR: Could not write to language folder! Make sure there is no &quot;lang&quot; folder next to the regular saves." translation="" explanation="" max="38*5"/>
+    <string english="MASTER OF THE UNIVERSE" translation="우주의 마스터" explanation="achievement/trophy title - no death mode complete" max="38*2"/>
+    <string english="Complete the game in no death mode" translation="노데스 모드에서 게임 완료" explanation="achievement/trophy description" max="38*2"/>
+    <string english="Something went wrong, but we forgot to print an error message." translation="문제가 발생했지만 오류 메시지가 정의되지 않았습니다." explanation="the message that is printed in case the game detects an error but there&apos;s no error message set" max="38*6"/>
+    <string english="Could not mount {path}: real directory doesn&apos;t exist" translation="{path}를 마운트할 수 없음: 실제 디렉터리가 존재하지 않습니다." explanation="mount: link/attach a directory (folder) in the filesystem into the game&apos;s filesystem so we can access it" max="38*6"/>
+    <string english="Level {path} not found" translation="{path} 레벨을 찾을 수 없습니다" explanation="" max="38*6"/>
+    <string english="Error parsing {path}: {error}" translation="파싱 에러 {path}: {error}" explanation="we tried to parse the level file, but failed" max="38*6"/>
+    <string english="{filename} dimensions not exact multiples of {width} by {height}!" translation="{filename} 사이즈가 {width}, {height}의 정수배가 아닙니다!" explanation="filename is something like tiles.png, tiles2.png, etc. and width/height are something like 8, 32, etc.; this is used if the dimensions of a graphics file aren&apos;t an exact multiple of the given size (e.g. 8x8, 32x32, etc.)" max="38*6"/>
+    <string english="ERROR: Could not write to language folder! Make sure there is no &quot;lang&quot; folder next to the regular saves." translation="ERROR: 언어 폴더에 쓰기 불가! 일반 저장 폴더 옆에 &quot;lang&quot; 폴더가 있는지 확인하세요." explanation="" max="38*5"/>
     <string english="" translation="" explanation=""/>
     <string english="" translation="" explanation=""/>
 </strings>
