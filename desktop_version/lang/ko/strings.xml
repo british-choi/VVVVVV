@@ -419,18 +419,18 @@
     <string english="back to levels" translation="레벨로 되돌아가기" explanation="menu option"/>
     <string english="To install new player levels, copy the .vvvvvv files to the levels folder." translation="새 플레이어 레벨을 설치하려면 .vvvvvv 파일을 레벨 폴더에 복사하세요." explanation="" max="38*3"/>
     <string english="Are you sure you want to show the levels path? This may reveal sensitive information if you are streaming." translation="레벨 경로를 표시하시겠습니까? 스트리밍 중인 경우 민감한 정보가 노출될 수 있습니다." explanation="" max="38*4"/>
-    <string english="The levels path is:" translation="" explanation="" max="40"/>
-    <string english="[ Press ACTION to Start ]" translation="" explanation="***OUTDATED***" max="38*2"/>
-    <string english="[ Press {button} to Start ]" translation="" explanation="title screen. Expect `ACTION`" max="38*2"/>
-    <string english="ACTION = Space, Z, or V" translation="" explanation="title screen" max="38*3"/>
-    <string english="[Press ENTER to return to editor]" translation="" explanation="***OUTDATED***" max="40"/>
-    <string english="[Press {button} to return to editor]" translation="" explanation="`to editor` is sorta redundant" max="40"/>
-    <string english="- Press ACTION to advance text -" translation="" explanation="***OUTDATED***" max="40"/>
-    <string english="- Press {button} to advance text -" translation="" explanation="to dismiss a textbox. Expect `ACTION`" max="40"/>
-    <string english="Press ACTION to continue" translation="" explanation="***OUTDATED***" max="34"/>
-    <string english="Press {button} to continue" translation="" explanation="Expect `ACTION`" max="34"/>
-    <string english="Current Time" translation="" explanation="super gravitron, stopwatch time" max="20"/>
-    <string english="Best Time" translation="" explanation="super gravitron, best stopwatch time" max="20"/>
+    <string english="The levels path is:" translation="레벨 경로:" explanation="" max="40"/>
+    <string english="[ Press ACTION to Start ]" translation="[ ACTION 누르면 시작 ]" explanation="***OUTDATED***" max="38*2"/>
+    <string english="[ Press {button} to Start ]" translation="[ {button} 누르면 시작 ]" explanation="title screen. Expect `ACTION`" max="38*2"/>
+    <string english="ACTION = Space, Z, or V" translation="ACTION = Space, Z, or V" explanation="title screen" max="38*3"/>
+    <string english="[Press ENTER to return to editor]" translation="[ENTER 누르면 편집기로 돌아가기]" explanation="***OUTDATED***" max="40"/>
+    <string english="[Press {button} to return to editor]" translation="[{button} 누르면 편집기로 돌아가기]" explanation="`to editor` is sorta redundant" max="40"/>
+    <string english="- Press ACTION to advance text -" translation="- ACTION 누르면 텍스트 진행 -" explanation="***OUTDATED***" max="40"/>
+    <string english="- Press {button} to advance text -" translation="- {button} 누르면 텍스트 진행 -" explanation="to dismiss a textbox. Expect `ACTION`" max="40"/>
+    <string english="Press ACTION to continue" translation="ACTION 누르면 계속하기" explanation="***OUTDATED***" max="34"/>
+    <string english="Press {button} to continue" translation="{button} 누르면 계속하기" explanation="Expect `ACTION`" max="34"/>
+    <string english="Current Time" translation="현재 타임" explanation="super gravitron, stopwatch time" max="20"/>
+    <string english="Best Time" translation="베스트 타임" explanation="super gravitron, best stopwatch time" max="20"/>
     <string english="Next Trophy at 5 seconds" translation="" explanation="" max="38*2"/>
     <string english="Next Trophy at 10 seconds" translation="" explanation="" max="38*2"/>
     <string english="Next Trophy at 15 seconds" translation="" explanation="" max="38*2"/>
@@ -462,33 +462,33 @@
     <string english="Rescued!" translation="구조!" case="1" explanation="this male crew member is not missing anymore" max="15"/>
     <string english="Rescued!" translation="구조!" case="2" explanation="this female crew member is not missing anymore" max="15"/>
     <string english="(that&apos;s you!)" translation="" explanation="this crew member is you (Viridian)" max="15"/>
-    <string english="Cannot Save in Level Replay" translation="" explanation="in-game menu" max="38*7"/>
-    <string english="Cannot Save in No Death Mode" translation="" explanation="in-game menu" max="38*7"/>
-    <string english="How&apos;d you get here?" translation="" explanation="in-game menu" max="38*7"/>
-    <string english="Cannot Save in Secret Lab" translation="" explanation="in-game menu" max="38*7"/>
-    <string english="ERROR: Could not save game!" translation="" explanation="in-game menu" max="34*2"/>
-    <string english="ERROR: Could not save settings file!" translation="" explanation="" max="38*2"/>
-    <string english="Game saved ok!" translation="" explanation="in-game menu" max="38*2"/>
-    <string english="[Press ACTION to save your game]" translation="" explanation="***OUTDATED***" max="40"/>
-    <string english="[Press {button} to save your game]" translation="" explanation="in-game menu. Expect `ACTION`" max="40"/>
-    <string english="(Note: The game is autosaved at every teleporter.)" translation="" explanation="in-game menu" max="38*3"/>
-    <string english="Last Save:" translation="" explanation="in-game menu" max="40"/>
-    <string english="Return to main menu?" translation="" explanation="in-game menu" max="38*4"/>
-    <string english="Do you want to quit? You will lose any unsaved progress." translation="" explanation="in-game menu" max="38*4"/>
-    <string english="Do you want to return to the secret laboratory?" translation="" explanation="in-game menu" max="38*4"/>
-    <string english="no, keep playing" translation="" explanation="in-game menu option" max="28"/>
-    <string english="[ NO, KEEP PLAYING ]" translation="" explanation="in-game menu option" max="32"/>
-    <string english="yes, quit to menu" translation="" explanation="in-game menu option" max="24"/>
-    <string english="[ YES, QUIT TO MENU ]" translation="" explanation="in-game menu option" max="28"/>
-    <string english="yes, return" translation="" explanation="in-game menu option" max="24"/>
-    <string english="[ YES, RETURN ]" translation="" explanation="in-game menu option" max="28"/>
-    <string english="no, return" translation="" explanation="quit program menu option"/>
-    <string english="yes, quit" translation="" explanation="quit program menu option"/>
-    <string english="return to game" translation="" explanation="pause menu option" max="27"/>
-    <string english="quit to menu" translation="" explanation="pause menu option" max="19"/>
-    <string english="Press Left/Right to choose a Teleporter" translation="" explanation="tight fit, so maybe `Left/Right: choose teleporter`, or use ←/→" max="40"/>
-    <string english="Press {button} to Teleport" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="40"/>
-    <string english="- Press {button} to Teleport -" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}" max="40"/>
+    <string english="Cannot Save in Level Replay" translation="레벨 리플레이에서 저장할 수 없음" explanation="in-game menu" max="38*7"/>
+    <string english="Cannot Save in No Death Mode" translation="노데스 모드에서 저장할 수 없음" explanation="in-game menu" max="38*7"/>
+    <string english="How&apos;d you get here?" translation="어떻게 여기까지 왔어요?" explanation="in-game menu" max="38*7"/>
+    <string english="Cannot Save in Secret Lab" translation="비밀 실험실에서 저장할 수 없음" explanation="in-game menu" max="38*7"/>
+    <string english="ERROR: Could not save game!" translation="오류: 게임을 저장할 수 없습니다!" explanation="in-game menu" max="34*2"/>
+    <string english="ERROR: Could not save settings file!" translation="오류: 설정 파일을 저장할 수 없습니다!" explanation="" max="38*2"/>
+    <string english="Game saved ok!" translation="게임 저장 완료!" explanation="in-game menu" max="38*2"/>
+    <string english="[Press ACTION to save your game]" translation="[ACTION 누르면 게임 저장하기]" explanation="***OUTDATED***" max="40"/>
+    <string english="[Press {button} to save your game]" translation="[{button} 누르면 게임 저장하기]" explanation="in-game menu. Expect `ACTION`" max="40"/>
+    <string english="(Note: The game is autosaved at every teleporter.)" translation="(참고: 게임은 텔레포터를 이동할 때마다 자동 저장됩니다.)" explanation="in-game menu" max="38*3"/>
+    <string english="Last Save:" translation="마지막 저장:" explanation="in-game menu" max="40"/>
+    <string english="Return to main menu?" translation="메인 메뉴로 돌아가시겠습니까?" explanation="in-game menu" max="38*4"/>
+    <string english="Do you want to quit? You will lose any unsaved progress." translation="게임을 종료하시겠습니까? 저장하지 않은 진행 상황은 모두 날아갑니다." explanation="in-game menu" max="38*4"/>
+    <string english="Do you want to return to the secret laboratory?" translation="비밀 실험실로 돌아가시겠습니까?" explanation="in-game menu" max="38*4"/>
+    <string english="no, keep playing" translation="아니요, 계속 플레이" explanation="in-game menu option" max="28"/>
+    <string english="[ NO, KEEP PLAYING ]" translation="[ 아니요, 계속 플레이 ]" explanation="in-game menu option" max="32"/>
+    <string english="yes, quit to menu" translation="예, 메뉴로 종료" explanation="in-game menu option" max="24"/>
+    <string english="[ YES, QUIT TO MENU ]" translation="[ 예, 메뉴로 종료 ]" explanation="in-game menu option" max="28"/>
+    <string english="yes, return" translation="예, 돌아가기" explanation="in-game menu option" max="24"/>
+    <string english="[ YES, RETURN ]" translation="[ 예, 돌아가기 ]" explanation="in-game menu option" max="28"/>
+    <string english="no, return" translation="아니요, 돌아가기" explanation="quit program menu option"/>
+    <string english="yes, quit" translation="예, 종료" explanation="quit program menu option"/>
+    <string english="return to game" translation="게임으로 돌아가기" explanation="pause menu option" max="27"/>
+    <string english="quit to menu" translation="메뉴로 종료" explanation="pause menu option" max="19"/>
+    <string english="Press Left/Right to choose a Teleporter" translation="왼쪽/오른쪽 버튼을 눌러 텔레포터 선택하기" explanation="tight fit, so maybe `Left/Right: choose teleporter`, or use ←/→" max="40"/>
+    <string english="Press {button} to Teleport" translation="{button} 누르면 텔레포트" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="40"/>
+    <string english="- Press {button} to Teleport -" translation="- {button} 누르면 텔레포트 -" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}" max="40"/>
     <string english="Press {button} to explode" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed. This was for testing, but people sometimes find it in custom levels" max="37"/>
     <string english="Press {button} to talk to Violet" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
     <string english="Press {button} to talk to Vitellary" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
@@ -671,13 +671,13 @@
     <string english="Press ENTER to view map and quicksave" translation="" explanation="***OUTDATED***" max="32*3"/>
     <string english="Press {button} to view map and quicksave" translation="" explanation="" max="32*3"/>
     <string english="If you prefer, you can press UP or DOWN instead of ACTION to flip." translation="" explanation="" max="34*3"/>
-    <string english="Help! Can anyone hear this message?" translation="" explanation="Violet speaking via Comms Relay" max="25*4"/>
-    <string english="Verdigris? Are you out there? Are you ok?" translation="" explanation="Violet speaking via Comms Relay" max="25*4"/>
-    <string english="Please help us! We&apos;ve crashed and need assistance!" translation="" explanation="Violet speaking via Comms Relay" max="25*4"/>
-    <string english="Hello? Anyone out there?" translation="" explanation="Violet speaking via Comms Relay" max="25*4"/>
-    <string english="This is Doctor Violet from the D.S.S. Souleye! Please respond!" translation="" explanation="Violet speaking via Comms Relay" max="25*4"/>
-    <string english="Please... Anyone..." translation="" explanation="Violet speaking via Comms Relay" max="25*4"/>
-    <string english="Please be alright, everyone..." translation="" explanation="Violet speaking via Comms Relay" max="25*4"/>
+    <string english="Help! Can anyone hear this message?" translation="도와줘요! 이 메시지 들리나요?" explanation="Violet speaking via Comms Relay" max="25*4"/>
+    <string english="Verdigris? Are you out there? Are you ok?" translation="Verdigris? 거기 있어? 괜찮아?" explanation="Violet speaking via Comms Relay" max="25*4"/>
+    <string english="Please help us! We&apos;ve crashed and need assistance!" translation="도와줘요! 우리는 추락했고 도움이 필요해요!" explanation="Violet speaking via Comms Relay" max="25*4"/>
+    <string english="Hello? Anyone out there?" translation="여보세요? 거기 누구 없어요?" explanation="Violet speaking via Comms Relay" max="25*4"/>
+    <string english="This is Doctor Violet from the D.S.S. Souleye! Please respond!" translation="D.S.S. Souleye의 닥터 Violet입니다! 응답해 주세요!" explanation="Violet speaking via Comms Relay" max="25*4"/>
+    <string english="Please... Anyone..." translation="제발... 누구 없어요?" explanation="Violet speaking via Comms Relay" max="25*4"/>
+    <string english="Please be alright, everyone..." translation="모두 괜찮아야 될텐데..." explanation="Violet speaking via Comms Relay" max="25*4"/>
     <string english="Congratulations!
 
 You have found a shiny trinket!" translation="축하합니다!

@@ -20,9 +20,9 @@
     </cutscene>
     <cutscene id="communicationstation" explanation="">
         <dialogue speaker="cyan" english="Violet! Is that you?" translation="Violet! 너 너야?"/>
-        <dialogue speaker="purple" english="Captain! You&apos;re ok!" translation="캡틴! 괜찮아!"/>
+        <dialogue speaker="purple" english="Captain! You&apos;re ok!" translation="캡틴! 무사했군!"/>
         <dialogue speaker="purple" english="Something has gone horribly wrong with the ship&apos;s teleporter!" translation="우주선의 텔레포터에 큰 문제가 생겼어!"/>
-        <dialogue speaker="purple" english="I think everyone has been teleported away randomly! They could be anywhere!" translation="모두가 무작위로 텔레포트된 것 같아! 어디든 갈 수 있어!"/>
+        <dialogue speaker="purple" english="I think everyone has been teleported away randomly! They could be anywhere!" translation="모두가 무작위로 텔레포트된 것 같아! 무작위로 보내졌을꺼야!"/>
         <dialogue speaker="cyan" english="Oh no!" translation="오, 안 돼!"/>
         <dialogue speaker="purple" english="I&apos;m on the ship - it&apos;s damaged badly, but it&apos;s still intact!" translation="난 우주선에 있어 - 심하게 손상되었지만 아직 괜찮아!"/>
         <dialogue speaker="purple" english="Where are you, Captain?" translation="어디 있나, 캡틴?"/>
@@ -32,8 +32,8 @@
         <dialogue speaker="purple" english="I can&apos;t teleport you back, but..." translation="텔레포트는 안 되는데..."/>
         <dialogue speaker="purple" english="If YOU can find a teleporter anywhere nearby, you should be able to teleport back to me!" translation="근처 어디든 텔레포터를 찾을 수 있다면 나에게 텔레포트할 수 있을 거야!"/>
         <dialogue speaker="cyan" english="Ok! I&apos;ll try to find one!" translation="알았어! 찾아볼게!"/>
-        <dialogue speaker="purple" english="Good luck, Captain!" translation="행운을 빌게, 캡틴!"/>
-        <dialogue speaker="purple" english="I&apos;ll keep trying to find the rest of the crew..." translation="나머지 대원들도 계속 찾아볼게..."/>
+        <dialogue speaker="purple" english="Good luck, Captain!" translation="행운을 빌어, 캡틴!"/>
+        <dialogue speaker="purple" english="I&apos;ll keep trying to find the rest of the crew..." translation="나머지 승무원들도 계속 찾아볼게..."/>
     </cutscene>
     <cutscene id="trenchwarfare" explanation="player finds Trench Warfare trinket, if no trinkets found yet">
         <dialogue speaker="cyan" english="Ohh! I wonder what that is?" translation="대체 저게 뭐지?"/>
@@ -81,7 +81,7 @@
         <dialogue speaker="player" english="Where do I begin?" translation="어디서부터 시작하죠?"/>
         <dialogue speaker="purple" english="Remember that you can press ENTER to check where you are on the map!" translation="Enter 키를 누르면 지도에서 현재 위치를 확인할 수 있다는 것을 기억해 둬!"/>
         <dialogue speaker="purple" english="Remember that you can press {b_map} to check where you are on the map!" translation="{b_map}을 누르면 지도에서 현재 위치를 확인할 수 있다는 것을 기억해 둬!" buttons="1"/>
-        <dialogue speaker="purple" english="Look for areas where the rest of the crew might be..." translation="나머지 대원들이 있을 만한 지역을 확인해 봐..."/>
+        <dialogue speaker="purple" english="Look for areas where the rest of the crew might be..." translation="나머지 승무원들이 있을 만한 지역을 확인해 봐..."/>
         <dialogue speaker="purple" english="If you get lost, you can get back to the ship from any teleporter." translation="길을 잃었다면 텔레포터를 통해 우주선으로 돌아올 수 있어."/>
         <dialogue speaker="purple" english="And don&apos;t worry! We&apos;ll find everyone!" translation="너무 걱정하지 말자! 모두 찾을 수 있을 거야!"/>
         <dialogue speaker="purple" english="Everything will be ok!" translation="다 괜찮을 거야!"/>
