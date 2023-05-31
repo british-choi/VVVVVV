@@ -16,32 +16,33 @@
     <string english="quit" translation="종료" explanation="main menu option"/>
     <string english="gameplay" translation="게임플레이" explanation="options menu option"/>
     <string english="Gameplay Options" translation="게임플레이 옵션" explanation="title" max="20"/>
-    <string english="Adjust various gameplay settings." translation="게임플레이 설정 변경" explanation="" max="38*5"/>
+    <string english="Adjust various gameplay settings." translation="다양한 게임플레이 설정을 조정합니다." explanation="" max="38*5"/>
     <string english="graphics" translation="그래픽" explanation="options menu option"/>
     <string english="Graphics Options" translation="그래픽 옵션" explanation="title" max="20"/>
-    <string english="Adjust screen settings." translation="스크린 설정 변경" explanation="" max="38*5"/>
+    <string english="Adjust screen settings." translation="화면 설정을 조정합니다." explanation="" max="38*5"/>
     <string english="audio" translation="오디오" explanation="options menu option"/>
     <string english="Audio Options" translation="오디오 옵션" explanation="title" max="20"/>
-    <string english="Adjust volume settings and soundtrack." translation="볼륨 설정 및 사운드트랙 변경." explanation="" max="38*5"/>
-    <string english="Adjust volume settings." translation="볼륨 설정 변경." explanation="" max="38*5"/>
+    <string english="Adjust volume settings and soundtrack." translation="볼륨 설정과 사운드트랙을 조정합니다." explanation="" max="38*5"/>
+    <string english="Adjust volume settings." translation="볼륨 설정을 조정합니다." explanation="" max="38*5"/>
     <string english="continue" translation="시작" explanation="menu option"/>
     <string english="continue from teleporter" translation="텔레포트에서 시작" explanation="menu option, game save that was made at a teleporter"/>
-    <string english="Tele Save" translation="텔레포트 세이브" explanation="title, game save that was made at a teleporter" max="20"/>
-    <string english="continue from quicksave" translation="퀵세이브에서 시작" explanation="menu option, game save that was made freely from the menu (at any checkpoint)"/>
-    <string english="Quick Save" translation="퀵세이브" explanation="title, game save that was made freely from the menu (at any checkpoint)" max="20"/>
+    <string english="Tele Save" translation="텔레포트 저장" explanation="title, game save that was made at a teleporter" max="20"/>
+    <string english="continue from quicksave" translation="빠른저장에서 시작" explanation="menu option, game save that was made freely from the menu (at any checkpoint)"/>
+    <string english="Quick Save" translation="빠른저장" explanation="title, game save that was made freely from the menu (at any checkpoint)" max="20"/>
     <string english="proceed" translation="진행" explanation="menu option"/>
     <string english="new game" translation="새게임" explanation="menu option"/>
     <string english="start new game" translation="새게임 시작" explanation="menu option, extra confirmation"/>
     <string english="secret lab" translation="비밀 실험실" explanation="menu option"/>
     <string english="play modes" translation="플레이 모드" explanation="menu option"/>
-    <string english="ERROR: No levels found." translation="오류: 레벨을 찾을 수 없음" explanation="" max="38*3"/>
-    <string english="ERROR: This level has no start point!" translation="오류: 이 레벨에는 시작점이 없음!" explanation="" max="38*5"/>
+    <string english="ERROR: No levels found." translation="오류: 레벨을 찾을 수 없습니다." explanation="" max="38*3"/>
+    <string english="ERROR: This level has no start point!" translation="오류: 이 레벨에는 시작점이 없습니다!" explanation="" max="38*5"/>
     <string english="ERROR" translation="오류" explanation="title" max="20"/>
     <string english="WARNING" translation="경고" explanation="title" max="20"/>
     <string english="unlock play modes" translation="플레이 모드 잠금해제" explanation="menu option"/>
     <string english="Unlock Play Modes" translation="플레이 모드 잠금해제" explanation="title" max="20"/>
     <string english="Unlock parts of the game normally unlocked as you progress." translation="게임을 진행하면서 일반적으로 잠금 해제되는 부분의 잠금을 해제합니다." explanation="" max="38*5"/>
-    <string english="From here, you may unlock parts of the game that are normally unlocked as you play." translation="여기에서 게임을 플레이하면서 일반적으로 잠금 해제되는 부분의 잠금을 해제할 수 있습니다." explanation="" max="38*5"/>
+    <string english="From here, you may unlock parts of the game that are normally unlocked as you play." translation="여기에서 게임을 플레이하면서 일반적으로 잠금 해제되는 부분의
+잠금을 해제할 수 있습니다." explanation="" max="38*5"/>
     <string english="unlock ship jukebox" translation="우주선 주크박스 잠금 해제" explanation="menu option"/>
     <string english="unlock secret lab" translation="비밀 실험실 잠금 해제" explanation="menu option"/>
     <string english="game pad" translation="게임 패드" explanation="menu option"/>
@@ -51,15 +52,15 @@
     <string english="Change controller options." translation="컨트롤러 옵션을 변경합니다." explanation="" max="38*2"/>
     <string english="language" translation="언어" explanation="menu option"/>
     <string english="Language" translation="언어" explanation="title" max="20"/>
-    <string english="Change the language." translation="언어 변경" explanation="" max="38*5"/>
-    <string english="clear main game data" translation="메인 게임 데이터를 삭제" explanation="menu option"/>
+    <string english="Change the language." translation="언어를 변경합니다." explanation="" max="38*5"/>
+    <string english="clear main game data" translation="메인 게임 데이터 삭제" explanation="menu option"/>
     <string english="clear custom level data" translation="사용자 레벨 데이터 삭제" explanation="menu option"/>
     <string english="Clear Data" translation="데이터 삭제" explanation="title" max="20"/>
     <string english="Delete your main game save data and unlocked play modes." translation="기본 게임 저장 데이터와 잠금 해제된 플레이 모드를 삭제합니다." explanation="" max="38*5"/>
     <string english="Delete your custom level save data and completion stars." translation="사용자 지정 레벨 저장 데이터와 완료 별을 삭제합니다." explanation="completion stars: when completing a level you get either 1 or 2 stars" max="38*5"/>
     <string english="Are you sure? This will delete your current saves..." translation="정말 삭제하시겠습니까? 현재 저장된 데이터가 삭제됩니다..." explanation="" max="38*7"/>
     <string english="Are you sure you want to delete all your saved data?" translation="모든 저장 데이터를 삭제하시겠습니까?" explanation="" max="38*7"/>
-    <string english="Are you sure you want to delete your quicksave?" translation="퀵 세이브를 삭제하시겠습니까?" explanation="only the quicksave of a custom level" max="38*7"/>
+    <string english="Are you sure you want to delete your quicksave?" translation="빠른저장을 삭제하시겠습니까?" explanation="only the quicksave of a custom level" max="38*7"/>
     <string english="no! don&apos;t delete" translation="아니요! 삭제하지 않음" explanation="menu option"/>
     <string english="yes, delete everything" translation="예, 모두 삭제" explanation="menu option"/>
     <string english="yes, delete save" translation="예, 저장 삭제" explanation="menu option"/>
@@ -82,10 +83,10 @@
     <string english="resize to nearest" translation="가장 가까운 크기로 조정" explanation="menu option. The game will be resized to the closest multiple of the normal resolution, 320x240, so for example if your window is 682x493, it will resize to 640x480"/>
     <string english="Resize to Nearest" translation="가장 가까운 크기로 조정" explanation="title. The game will be resized to the closest multiple of the normal resolution, 320x240, so for example if your window is 682x493, it will resize to 640x480" max="20"/>
     <string english="Resize to the nearest window size that is of an integer multiple." translation="정수 배수의 가장 가까운 창 크기로 크기를 조정합니다." explanation="The game will be resized to the closest multiple of the normal resolution, 320x240, so for example if your window is 682x493, it will resize to 640x480" max="38*3"/>
-    <string english="You must be in windowed mode to use this option." translation="이 옵션을 사용하려면 윈도우 모드에 있어야 합니다" explanation="The game cannot be in fullscreen to resize the window" max="38*2"/>
+    <string english="You must be in windowed mode to use this option." translation="이 옵션을 사용하려면 윈도우 모드에 있어야 합니다." explanation="The game cannot be in fullscreen to resize the window" max="38*2"/>
     <string english="toggle filter" translation="필터 전환" explanation="menu option"/>
     <string english="Toggle Filter" translation="필터 전환" explanation="title" max="20"/>
-    <string english="Change to nearest/linear filter." translation="가장 이웃 기반/선형 필터로 변경합니다." explanation="" max="38*3"/>
+    <string english="Change to nearest/linear filter." translation="이웃 기반/선형 필터로 변경합니다." explanation="" max="38*3"/>
     <string english="Current mode: LINEAR" translation="현재 모드: 선형 필터" explanation="" max="38*2"/>
     <string english="Current mode: NEAREST" translation="현재 모드: 이웃 기반 필터" explanation="nearest neighbor filter" max="38*2"/>
     <string english="toggle analogue" translation="아날로그 전환" explanation="menu option, analogue mode simulates distortion from bad signal"/>
@@ -99,8 +100,8 @@
     <string english="toggle vsync" translation="수직동기화 전환" explanation="menu option"/>
     <string english="Toggle VSync" translation="수직동기화 전환" explanation="title" max="20"/>
     <string english="Turn VSync on or off." translation="수직동기화를 켜거나 끕니다." explanation="" max="38*2"/>
-    <string english="Current mode: VSYNC OFF" translation="현재모드: 수직동기화 끔" explanation="" max="38*2"/>
-    <string english="Current mode: VSYNC ON" translation="현재모드: 수직동기화 켬" explanation="" max="38*2"/>
+    <string english="Current mode: VSYNC OFF" translation="현재모드: 수직동기화 끄기" explanation="" max="38*2"/>
+    <string english="Current mode: VSYNC ON" translation="현재모드: 수직동기화 켜기" explanation="" max="38*2"/>
     <string english="music volume" translation="음악 볼륨" explanation="audio menu option"/>
     <string english="Music Volume" translation="음악 볼륨" explanation="title" max="20"/>
     <string english="Change the volume of the music." translation="음악 볼륨을 변경합니다." explanation="" max="38*3"/>
@@ -109,7 +110,7 @@
     <string english="Change the volume of sound effects." translation="사운드 효과음의 볼륨을 변경합니다." explanation="" max="38*3"/>
     <string english="Credits" translation="크레딧" explanation="credits" max="20"/>
     <string english="VVVVVV is a game by" translation="VVVVVV 게임 만든이" explanation="credits" max="40"/>
-    <string english="and features music by" translation="음악을 만든이" explanation="credits" max="40"/>
+    <string english="and features music by" translation="음악 만든이" explanation="credits" max="40"/>
     <string english="Roomnames are by" translation="방이름 만든이" explanation="credits" max="40"/>
     <string english="C++ version by" translation="C++ 버전" explanation="credits" max="40"/>
     <string english="Beta Testing by" translation="베타 테스팅" explanation="credits" max="30"/>
@@ -126,7 +127,8 @@
     <string english="With contributions on GitHub from" translation="GitHub에 대한 기여와 함께" explanation="credits" max="38*3"/>
     <string english="and thanks also to:" translation="그리고 또한 감사드립니다" explanation="credits, and thanks also to ... you!" max="38*3"/>
     <string english="You!" translation="당신!" explanation="credits, and thanks also to ... you!" max="20"/>
-    <string english="Your support makes it possible for me to continue making the games I want to make, now and into the future." translation="여러분의 지원 덕분에 제가 만들고 싶은 게임을 지금도 미래에도 계속 만들 수 있게 되었습니다." explanation="credits" max="38*5"/>
+    <string english="Your support makes it possible for me to continue making the games I want to make, now and into the future." translation="여러분의 지원 덕분에 제가 만들고 싶은 게임을
+지금도 미래에도 계속 만들 수 있게 되었습니다." explanation="credits" max="38*5"/>
     <string english="Thank you!" translation="감사합니다!" explanation="credits" max="38*5"/>
     <string english="Good luck!" translation="행운을 빕니다!" explanation="" max="38*3"/>
     <string english="You cannot save in this mode." translation="이 모드에서는 저장할 수 없습니다." explanation="" max="38*3"/>
@@ -263,7 +265,7 @@
     <string english="Text outlines are OFF." translation="텍스트 윤곽선이 꺼짐" explanation="" max="40"/>
     <string english="invincibility" translation="무적" explanation="menu option"/>
     <string english="Invincibility" translation="무적" explanation="title" max="20"/>
-    <string english="Explore the game freely without dying. (Can cause glitches.)" translation="죽지 않고 자유롭게 게임을 탐험하세요. (결함이 발생할 수 있습니다.)" explanation="invincibility mode" max="38*3"/>
+    <string english="Explore the game freely without dying. (Can cause glitches.)" translation="죽지 않고 자유롭게 게임을 탐험하세요.(결함이 발생할 수 있습니다.)" explanation="invincibility mode" max="38*3"/>
     <string english="Invincibility is ON." translation="무적 상태가 켜짐" explanation="" max="38*2"/>
     <string english="Invincibility is OFF." translation="무적 상태가 꺼짐" explanation="" max="38*2"/>
     <string english="Are you sure you want to enable invincibility?" translation="무적 모드를 활성화하시겠습니까?" explanation="" max="38*7"/>
@@ -417,7 +419,8 @@
     <string english="start from beginning" translation="처음부터 시작" explanation="menu option"/>
     <string english="delete save" translation="저장 삭제" explanation="menu option"/>
     <string english="back to levels" translation="레벨로 되돌아가기" explanation="menu option"/>
-    <string english="To install new player levels, copy the .vvvvvv files to the levels folder." translation="새 플레이어 레벨을 설치하려면 .vvvvvv 파일을 레벨 폴더에 복사하세요." explanation="" max="38*3"/>
+    <string english="To install new player levels, copy the .vvvvvv files to the levels folder." translation="새 플레이어 레벨을 설치하려면 .vvvvvv 파일을
+레벨 폴더에 복사하세요." explanation="" max="38*3"/>
     <string english="Are you sure you want to show the levels path? This may reveal sensitive information if you are streaming." translation="레벨 경로를 표시하시겠습니까? 스트리밍 중인 경우 민감한 정보가 노출될 수 있습니다." explanation="" max="38*4"/>
     <string english="The levels path is:" translation="레벨 경로:" explanation="" max="40"/>
     <string english="[ Press ACTION to Start ]" translation="[ ACTION 누르면 시작 ]" explanation="***OUTDATED***" max="38*2"/>
@@ -478,72 +481,72 @@
     <string english="Do you want to return to the secret laboratory?" translation="비밀 실험실로 돌아가시겠습니까?" explanation="in-game menu" max="38*4"/>
     <string english="no, keep playing" translation="아니요, 계속 플레이" explanation="in-game menu option" max="28"/>
     <string english="[ NO, KEEP PLAYING ]" translation="[ 아니요, 계속 플레이 ]" explanation="in-game menu option" max="32"/>
-    <string english="yes, quit to menu" translation="예, 메뉴로 종료" explanation="in-game menu option" max="24"/>
-    <string english="[ YES, QUIT TO MENU ]" translation="[ 예, 메뉴로 종료 ]" explanation="in-game menu option" max="28"/>
+    <string english="yes, quit to menu" translation="예, 메뉴로 이동" explanation="in-game menu option" max="24"/>
+    <string english="[ YES, QUIT TO MENU ]" translation="[ 예, 메뉴로 이동 ]" explanation="in-game menu option" max="28"/>
     <string english="yes, return" translation="예, 돌아가기" explanation="in-game menu option" max="24"/>
     <string english="[ YES, RETURN ]" translation="[ 예, 돌아가기 ]" explanation="in-game menu option" max="28"/>
     <string english="no, return" translation="아니요, 돌아가기" explanation="quit program menu option"/>
     <string english="yes, quit" translation="예, 종료" explanation="quit program menu option"/>
     <string english="return to game" translation="게임으로 돌아가기" explanation="pause menu option" max="27"/>
-    <string english="quit to menu" translation="메뉴로 종료" explanation="pause menu option" max="19"/>
+    <string english="quit to menu" translation="메뉴로 이동" explanation="pause menu option" max="19"/>
     <string english="Press Left/Right to choose a Teleporter" translation="왼쪽/오른쪽 버튼을 눌러 텔레포터 선택하기" explanation="tight fit, so maybe `Left/Right: choose teleporter`, or use ←/→" max="40"/>
     <string english="Press {button} to Teleport" translation="{button} 누르면 텔레포트" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="40"/>
     <string english="- Press {button} to Teleport -" translation="- {button} 누르면 텔레포트 -" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}" max="40"/>
-    <string english="Press {button} to explode" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed. This was for testing, but people sometimes find it in custom levels" max="37"/>
-    <string english="Press {button} to talk to Violet" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
-    <string english="Press {button} to talk to Vitellary" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
-    <string english="Press {button} to talk to Vermilion" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
-    <string english="Press {button} to talk to Verdigris" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
-    <string english="Press {button} to talk to Victoria" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
-    <string english="Press {button} to activate terminal" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
-    <string english="Press {button} to activate terminals" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed. there are 3 next to each other in the ship" max="37"/>
-    <string english="Press {button} to interact" translation="" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
-    <string english="Passion for Exploring" translation="" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
-    <string english="Pushing Onwards" translation="" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
-    <string english="Positive Force" translation="" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
-    <string english="Presenting VVVVVV" translation="" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
-    <string english="Potential for Anything" translation="" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
-    <string english="Predestined Fate" translation="" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
-    <string english="Pipe Dream" translation="" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
-    <string english="Popular Potpourri" translation="" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
-    <string english="Pressure Cooker" translation="" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
-    <string english="ecroF evitisoP" translation="" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
-    <string english="Map Settings" translation="" explanation="title, editor, Level Settings, map is kinda inconsistent with everything else" max="20"/>
-    <string english="edit scripts" translation="" explanation="level editor menu option"/>
-    <string english="change music" translation="" explanation="level editor menu option"/>
-    <string english="editor ghosts" translation="" explanation="level editor menu option. Toggles option to show a repetition of the player&apos;s path after playtesting"/>
-    <string english="Editor ghost trail is OFF" translation="" explanation="level editor. Repetition of the player&apos;s path after playtesting is disabled" max="40"/>
-    <string english="Editor ghost trail is ON" translation="" explanation="level editor. Repetition of the player&apos;s path after playtesting is enabled" max="40"/>
-    <string english="load level" translation="" explanation="level editor menu option"/>
-    <string english="save level" translation="" explanation="level editor menu option"/>
-    <string english="quit to main menu" translation="" explanation="level editor menu option" max="19"/>
-    <string english="change name" translation="" explanation="level editor menu option"/>
-    <string english="change author" translation="" explanation="level editor menu option"/>
-    <string english="change description" translation="" explanation="level editor menu option"/>
-    <string english="change website" translation="" explanation="level editor menu option"/>
-    <string english="change font" translation="" explanation="level editor menu option"/>
-    <string english="Level Font" translation="" explanation="title, editor, font that a custom level will show up in. You can select a language name here (like Chinese or Japanese which have different fonts, or `other`)" max="20"/>
-    <string english="Select the language in which the text in this level is written." translation="" explanation="" max="38*3"/>
-    <string english="Font:" translation="" explanation="level options, followed by name of font (mind the space)" max="14"/>
-    <string english="Map Music" translation="" explanation="title, editor, music that starts playing when a level is started. Can be changed with scripting later, so this is really just initial music" max="20"/>
-    <string english="Current map music:" translation="" explanation="editor, followed by the number and name of a song, or `No background music`. Can be changed with scripting later, so this is really just initial music" max="38*2"/>
-    <string english="No background music" translation="" explanation="editor, level starts with no song playing" max="38*2"/>
-    <string english="1: Pushing Onwards" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="2: Positive Force" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="3: Potential for Anything" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="4: Passion for Exploring" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="N/A: Pause" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="5: Presenting VVVVVV" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="N/A: Plenary" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="6: Predestined Fate" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="N/A: ecroF evitisoP" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="7: Popular Potpourri" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="8: Pipe Dream" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="9: Pressure Cooker" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="10: Paced Energy" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="11: Piercing the Sky" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="N/A: Predestined Fate Remix" translation="" explanation="editor, song name should probably not be translated" max="38*2"/>
-    <string english="?: something else" translation="" explanation="editor, song was not recognized" max="38*2"/>
+    <string english="Press {button} to explode" translation="{button} 누르면 폭발" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed. This was for testing, but people sometimes find it in custom levels" max="37"/>
+    <string english="Press {button} to talk to Violet" translation="{button} 누르면 Violet과 대화하기" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
+    <string english="Press {button} to talk to Vitellary" translation="{button} 누르면 Vitellary와 대화하기" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
+    <string english="Press {button} to talk to Vermilion" translation="{button} 누르면 Vermilion과 대화하기" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
+    <string english="Press {button} to talk to Verdigris" translation="{button} 누르면 Verdigris와 대화하기" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
+    <string english="Press {button} to talk to Victoria" translation="{button} 누르면 Victoria와 대화하기" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
+    <string english="Press {button} to activate terminal" translation="{button} 누르면 터미널 활성화하기" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
+    <string english="Press {button} to activate terminals" translation="{button} 누르면 터미널 활성화하기" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed. there are 3 next to each other in the ship" max="37"/>
+    <string english="Press {button} to interact" translation="{button} 누르면 인터랙트하기" explanation="keyboard key (E or ENTER) or controller button glyph is filled in for {button}. max is when displayed" max="37"/>
+    <string english="Passion for Exploring" translation="Passion for Exploring" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
+    <string english="Pushing Onwards" translation="Pushing Onwards" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
+    <string english="Positive Force" translation="Positive Force" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
+    <string english="Presenting VVVVVV" translation="Presenting VVVVVV" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
+    <string english="Potential for Anything" translation="Potential for Anything" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
+    <string english="Predestined Fate" translation="Predestined Fate" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
+    <string english="Pipe Dream" translation="Pipe Dream" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
+    <string english="Popular Potpourri" translation="Popular Potpourri" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
+    <string english="Pressure Cooker" translation="Pressure Cooker" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
+    <string english="ecroF evitisoP" translation="ecroF evitisoP" explanation="jukebox prompt. song name should probably not be translated" max="37*2"/>
+    <string english="Map Settings" translation="맵 설정" explanation="title, editor, Level Settings, map is kinda inconsistent with everything else" max="20"/>
+    <string english="edit scripts" translation="스크립트 편집" explanation="level editor menu option"/>
+    <string english="change music" translation="음악 변경" explanation="level editor menu option"/>
+    <string english="editor ghosts" translation="에디터 고스트" explanation="level editor menu option. Toggles option to show a repetition of the player&apos;s path after playtesting"/>
+    <string english="Editor ghost trail is OFF" translation="에디터 고스트 트레일이 꺼져 있습니다." explanation="level editor. Repetition of the player&apos;s path after playtesting is disabled" max="40"/>
+    <string english="Editor ghost trail is ON" translation="에디터 고스트 트레일이 켜져 있습니다." explanation="level editor. Repetition of the player&apos;s path after playtesting is enabled" max="40"/>
+    <string english="load level" translation="레벨 불러오기" explanation="level editor menu option"/>
+    <string english="save level" translation="레벨 저장하기" explanation="level editor menu option"/>
+    <string english="quit to main menu" translation="메인 메뉴로 가기" explanation="level editor menu option" max="19"/>
+    <string english="change name" translation="이름 변경" explanation="level editor menu option"/>
+    <string english="change author" translation="작성자 변경" explanation="level editor menu option"/>
+    <string english="change description" translation="설명 변경" explanation="level editor menu option"/>
+    <string english="change website" translation="웹사이트 변경" explanation="level editor menu option"/>
+    <string english="change font" translation="폰트 변경" explanation="level editor menu option"/>
+    <string english="Level Font" translation="레벨 폰트" explanation="title, editor, font that a custom level will show up in. You can select a language name here (like Chinese or Japanese which have different fonts, or `other`)" max="20"/>
+    <string english="Select the language in which the text in this level is written." translation="이 레벨의 텍스트가 작성되는 언어를 선택합니다." explanation="" max="38*3"/>
+    <string english="Font:" translation="폰트:" explanation="level options, followed by name of font (mind the space)" max="14"/>
+    <string english="Map Music" translation="맵 음악" explanation="title, editor, music that starts playing when a level is started. Can be changed with scripting later, so this is really just initial music" max="20"/>
+    <string english="Current map music:" translation="현재 맵 음악:" explanation="editor, followed by the number and name of a song, or `No background music`. Can be changed with scripting later, so this is really just initial music" max="38*2"/>
+    <string english="No background music" translation="배경 음악 없음" explanation="editor, level starts with no song playing" max="38*2"/>
+    <string english="1: Pushing Onwards" translation="1: Pushing Onwards" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="2: Positive Force" translation="2: Positive Force" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="3: Potential for Anything" translation="3: Potential for Anything" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="4: Passion for Exploring" translation="4: Passion for Exploring" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="N/A: Pause" translation="N/A: Pause" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="5: Presenting VVVVVV" translation="5: Presenting VVVVVV" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="N/A: Plenary" translation="N/A: Plenary" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="6: Predestined Fate" translation="6: Predestined Fate" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="N/A: ecroF evitisoP" translation="N/A: ecroF evitisoP" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="7: Popular Potpourri" translation="7: Popular Potpourri" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="8: Pipe Dream" translation="8: Pipe Dream" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="9: Pressure Cooker" translation="9: Pressure Cooker" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="10: Paced Energy" translation="10: Paced Energy" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="11: Piercing the Sky" translation="11: Piercing the Sky" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="N/A: Predestined Fate Remix" translation="N/A: Predestined Fate Remix" explanation="editor, song name should probably not be translated" max="38*2"/>
+    <string english="?: something else" translation="?:다른 것" explanation="editor, song was not recognized" max="38*2"/>
     <string english="next song" translation="다음 곡" explanation="level editor menu option"/>
     <string english="previous song" translation="이전 곡" explanation="level editor menu option"/>
     <string english="back" translation="뒤로" explanation="level editor menu option"/>
@@ -658,24 +661,24 @@
     <string english="{min}:{sec|digits=2}.{cen|digits=2}" translation="" explanation="time format M:SS.CC"/>
     <string english="{sec}.{cen|digits=2}" translation="" explanation="time format S.CC"/>
     <string english=".99" translation="" explanation="appended to time format for 99/100 seconds (example: 1:15.99). Time trial results"/>
-    <string english="Level Complete!" translation="" explanation="Might be tight, the exclamation mark may be removed" max="18"/>
-    <string english="Game Complete!" translation="" explanation="Might be tight, the exclamation mark may be removed" max="18"/>
-    <string english="You have rescued a crew member!" translation="" explanation="If you need to manually wordwrap: please ensure this has exactly two lines. Ignore the (font-adapted) maximum if it says 1 line." max="30*2"/>
-    <string english="All Crew Members Rescued!" translation="" explanation="" max="32"/>
-    <string english="All crewmates rescued!" translation="" explanation="" max="32"/>
-    <string english="Game Saved" translation="" explanation="" max="30"/>
-    <string english="Press arrow keys or WASD to move" translation="" explanation="" max="32*2"/>
-    <string english="Press left/right to move" translation="" explanation="" max="32*2"/>
-    <string english="Press ACTION to flip" translation="" explanation="***OUTDATED***" max="32*3"/>
-    <string english="Press {button} to flip" translation="" explanation="expect `ACTION`" max="32*3"/>
-    <string english="Press ENTER to view map and quicksave" translation="" explanation="***OUTDATED***" max="32*3"/>
-    <string english="Press {button} to view map and quicksave" translation="" explanation="" max="32*3"/>
-    <string english="If you prefer, you can press UP or DOWN instead of ACTION to flip." translation="" explanation="" max="34*3"/>
+    <string english="Level Complete!" translation="레벨 완료!" explanation="Might be tight, the exclamation mark may be removed" max="18"/>
+    <string english="Game Complete!" translation="게임 완료!" explanation="Might be tight, the exclamation mark may be removed" max="18"/>
+    <string english="You have rescued a crew member!" translation="승무원을 구조했습니다!" explanation="If you need to manually wordwrap: please ensure this has exactly two lines. Ignore the (font-adapted) maximum if it says 1 line." max="30*2"/>
+    <string english="All Crew Members Rescued!" translation="모든 승무원 구조!" explanation="" max="32"/>
+    <string english="All crewmates rescued!" translation="모든 승무원이 구조되었습니다!" explanation="" max="32"/>
+    <string english="Game Saved" translation="게임 저장" explanation="" max="30"/>
+    <string english="Press arrow keys or WASD to move" translation="이동하려면 화살표 키 또는 WASD를 누르세요" explanation="" max="32*2"/>
+    <string english="Press left/right to move" translation="이동하려면 왼쪽/오른쪽 버튼을 누릅니다." explanation="" max="32*2"/>
+    <string english="Press ACTION to flip" translation="ACTION 누르면 뒤집기" explanation="***OUTDATED***" max="32*3"/>
+    <string english="Press {button} to flip" translation="{button} 누르면 뒤집기" explanation="expect `ACTION`" max="32*3"/>
+    <string english="Press ENTER to view map and quicksave" translation="ENTER 누르면 맵 보기 및 빠른저장" explanation="***OUTDATED***" max="32*3"/>
+    <string english="Press {button} to view map and quicksave" translation="{button} 누르면 맵 보기 및 빠른저장" explanation="" max="32*3"/>
+    <string english="If you prefer, you can press UP or DOWN instead of ACTION to flip." translation="원하는 경우, ACTION 대신 UP / DOWN 눌러 뒤집기를 할 수 있습니다." explanation="" max="34*3"/>
     <string english="Help! Can anyone hear this message?" translation="도와줘요! 이 메시지 들리나요?" explanation="Violet speaking via Comms Relay" max="25*4"/>
     <string english="Verdigris? Are you out there? Are you ok?" translation="Verdigris? 거기 있어? 괜찮아?" explanation="Violet speaking via Comms Relay" max="25*4"/>
     <string english="Please help us! We&apos;ve crashed and need assistance!" translation="도와줘요! 우리는 추락했고 도움이 필요해요!" explanation="Violet speaking via Comms Relay" max="25*4"/>
     <string english="Hello? Anyone out there?" translation="여보세요? 거기 누구 없어요?" explanation="Violet speaking via Comms Relay" max="25*4"/>
-    <string english="This is Doctor Violet from the D.S.S. Souleye! Please respond!" translation="D.S.S. Souleye의 닥터 Violet입니다! 응답해 주세요!" explanation="Violet speaking via Comms Relay" max="25*4"/>
+    <string english="This is Doctor Violet from the D.S.S. Souleye! Please respond!" translation="D.S.S. Souleye의 Violet 박사입니다! 응답해 주세요!" explanation="Violet speaking via Comms Relay" max="25*4"/>
     <string english="Please... Anyone..." translation="제발... 누구 없어요?" explanation="Violet speaking via Comms Relay" max="25*4"/>
     <string english="Please be alright, everyone..." translation="모두 괜찮아야 될텐데..." explanation="Violet speaking via Comms Relay" max="25*4"/>
     <string english="Congratulations!
