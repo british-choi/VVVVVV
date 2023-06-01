@@ -702,7 +702,7 @@ DIMENSIONAL STABILISER OFFLINE" translation="-= 경고 =-
         <dialogue speaker="blue" english="You&apos;re alright!" translation="무사했구나!"/>
         <dialogue speaker="blue" english="I knew you&apos;d be ok!" translation="무사할 줄 알았어!"/>
         <dialogue speaker="purple" english="We were very worried when you didn&apos;t come back..." translation="안 와서 정말 걱정했어…"/>
-        <dialogue speaker="green" english="...but when you turned off the source of the interference..." translation="...하지만 전파 방해의 원인을 끄고 나서…"/>
+        <dialogue speaker="green" english="...but when you turned off the source of the interference..." translation="…하지만 전파 방해의 원인을 끄고 나서…"/>
         <dialogue speaker="yellow" english="...we were able to find you with the ship&apos;s scanners..." translation="우주선의 스캐너로 널 찾을 수 있었어…"/>
         <dialogue speaker="red" english="...and teleport you back on board!" translation="…그리고 다시 우주선으로 텔레포트할 수 있었어!"/>
         <dialogue speaker="player" english="That was lucky!" translation="운이 좋았어!"/>

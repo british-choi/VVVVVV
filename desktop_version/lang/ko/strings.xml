@@ -393,7 +393,7 @@
     <string english="Go!" translation="출발!" explanation="3, 2, 1, Go!" max="10"/>
     <string english="Congratulations!" translation="축하합니다!" explanation="title" max="20"/>
     <string english="Your save files have been updated." translation="저장 파일이 업데이트되었습니다." explanation="player completed game" max="38*6"/>
-    <string english="If you want to keep exploring the game, select CONTINUE from the play menu." translation="게임을 계속 탐색하려면 재생 메뉴에서 계속을 선택합니다." explanation="" max="38*9"/>
+    <string english="If you want to keep exploring the game, select CONTINUE from the play menu." translation="게임을 계속 탐색하려면 플레이 메뉴에서 계속을 선택합니다." explanation="" max="38*9"/>
     <string english="You have unlocked a new Time Trial." translation="새 타임 트라이얼의 잠금을 해제했습니다." explanation="" max="38*7"/>
     <string english="You have unlocked some new Time Trials." translation="일부 새 타임 트라이얼의 잠금을 해제했습니다." explanation="" max="38*7"/>
     <string english="You have unlocked No Death Mode." translation="노 데스 모드의 잠금을 해제했습니다." explanation="" max="38*7"/>
