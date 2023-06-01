@@ -218,11 +218,11 @@
     <string english="ESC" translation="ESC" explanation="keyboard key ESC"/>
     <string english="ACTION" translation="ACTION" explanation="the ACTION key is either the SPACE key, Z or V (this is explained on the title screen). It&apos;s used in strings like `Press ACTION to advance text`"/>
     <string english="Interact button: {button}" translation="인터랙트 버튼: {button}" explanation="keyboard key (E or ENTER) is filled in for {button}. Speedrunner options menu" max="38*2"/>
-    <string english="fake load screen" translation="fake 로딩 화면" explanation="menu option"/>
-    <string english="Fake Load Screen" translation="fake 로딩 화면" explanation="title, allows the loading screen which counts to 100% to be turned off" max="20"/>
-    <string english="Disable the fake loading screen which appears on game launch." translation="게임 실행 시 표시되는 fake 로딩 화면을 비활성화합니다." explanation="" max="38*3"/>
-    <string english="Fake loading screen is OFF" translation="fake 로딩 화면이 꺼짐" explanation="allows the loading screen which counts to 100% to be turned off" max="38*2"/>
-    <string english="Fake loading screen is ON" translation="fake 로딩 화면이 켜짐" explanation="allows the loading screen which counts to 100% to be turned off" max="38*2"/>
+    <string english="fake load screen" translation="가짜 로딩 화면" explanation="menu option"/>
+    <string english="Fake Load Screen" translation="가짜 로딩 화면" explanation="title, allows the loading screen which counts to 100% to be turned off" max="20"/>
+    <string english="Disable the fake loading screen which appears on game launch." translation="게임 실행 시 표시되는 가짜 로딩 화면을 비활성화합니다." explanation="" max="38*3"/>
+    <string english="Fake loading screen is OFF" translation="가짜 로딩 화면이 꺼짐" explanation="allows the loading screen which counts to 100% to be turned off" max="38*2"/>
+    <string english="Fake loading screen is ON" translation="가짜 로딩 화면이 켜짐" explanation="allows the loading screen which counts to 100% to be turned off" max="38*2"/>
     <string english="room name background" translation="방 이름 배경" explanation="menu option, background behind room names"/>
     <string english="Room Name BG" translation="방 이름 배경" explanation="title, background behind room names" max="20"/>
     <string english="Lets you see through what is behind the name at the bottom of the screen." translation="화면 하단에 있는 이름 뒤에 있는 내용을 볼 수 있습니다." explanation="" max="38*3"/>
