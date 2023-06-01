@@ -6,7 +6,8 @@
     <nativename>한국어</nativename>
 
     <!-- English translation by X -->
-    <credit>스크립트:브리티쉬, 번역:브리티쉬</credit>
+    <credit>한글 폰트: 달무리 글꼴 8x8
+한국어 번역: 브리티쉬</credit>
 
     <!-- On the language screen, hard limit 40 8x8 characters. Space/Z/V sets this as the language -->
     <action_hint>Space, Z 또는 V를 눌러 선택합니다</action_hint>
