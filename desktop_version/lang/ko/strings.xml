@@ -120,14 +120,14 @@
     <string english="Rooms Named by" translation="방이름" explanation="credits" max="30"/>
     <string english="C++ Port by" translation="C++ 포팅" explanation="credits" max="30"/>
     <string english="Patrons" translation="후원" explanation="credits, people who donated a certain amount before the game originally released" max="13"/>
-    <string english="VVVVVV is supported by the following patrons" translation="VVVVVV는 아래 후원자들의 지원을 받습니다." explanation="credits" max="38*3"/>
+    <string english="VVVVVV is supported by the following patrons" translation="VVVVVV는 아래의 후원자가 지원합니다." explanation="credits" max="38*3"/>
     <string english="and also by" translation="그리고 또한" explanation="credits, VVVVVV is also supported by the following people" max="38*2"/>
     <string english="and" translation="그리고" explanation="credits. This list of names, AND furthermore, this other list of names" max="38"/>
     <string english="GitHub Contributors" translation="GitHub 기여자" explanation="credits. This doesn&apos;t _really_ need `GitHub` specifically, it could be replaced with `Code`" max="20"/>
-    <string english="With contributions on GitHub from" translation="GitHub에 대한 기여와 함께" explanation="credits" max="38*3"/>
-    <string english="and thanks also to:" translation="그리고 또한 감사드립니다" explanation="credits, and thanks also to ... you!" max="38*3"/>
+    <string english="With contributions on GitHub from" translation="GitHub에서 다음과 같은 사람들이 기여했습니다." explanation="credits" max="38*3"/>
+    <string english="and thanks also to:" translation="감사의 인사를 전합니다:" explanation="credits, and thanks also to ... you!" max="38*3"/>
     <string english="You!" translation="당신!" explanation="credits, and thanks also to ... you!" max="20"/>
-    <string english="Your support makes it possible for me to continue making the games I want to make, now and into the future." translation="여러분의 지원 덕분에 제가 만들고 싶은 게임을
+    <string english="Your support makes it possible for me to continue making the games I want to make, now and into the future." translation="여러분의 성원 덕분에 제가 만들고 싶은 게임을
 지금도 미래에도 계속 만들 수 있게 되었습니다." explanation="credits" max="38*5"/>
     <string english="Thank you!" translation="감사합니다!" explanation="credits" max="38*5"/>
     <string english="Good luck!" translation="행운을 빕니다!" explanation="" max="38*3"/>
@@ -707,7 +707,7 @@ You have found the secret lab!" translation="축하합니다!
     <string english="Vermilion" translation="Vermilion" case="1" explanation="crewmate name as menu option: Who do you want to play the level with?"/>
     <string english="Verdigris" translation="Verdigris" case="1" explanation="crewmate name as menu option: Who do you want to play the level with?"/>
     <string english="Victoria" translation="Victoria" case="1" explanation="crewmate name as menu option: Who do you want to play the level with?"/>
-    <string english="Starring" translation="출연" explanation="credits roll. Starring the following 6 crew members" max="20"/>
+    <string english="Starring" translation="등장 인물" explanation="credits roll. Starring the following 6 crew members" max="20"/>
     <string english="Captain Viridian" translation="Viridian 선장" explanation="credits roll. Starring the following 6 crew members" max="27"/>
     <string english="Doctor Violet" translation="Violet 박사" explanation="credits roll. Starring the following 6 crew members" max="27"/>
     <string english="Professor Vitellary" translation="Vitellary 교수" explanation="credits roll. Starring the following 6 crew members" max="27"/>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Please read README.txt for information about the language files -->
 <roomnames_special>
-    <roomname english="Outer Space" translation="" explanation="Literally Outer Space"/>
-    <roomname english="Dimension VVVVVV" translation="" explanation="The overall area that the game takes place in."/>
-    <roomname english="The Ship" translation="" explanation="The dimension exploring spaceship"/>
-    <roomname english="Secret Lab" translation="" explanation="An endgame section containing achievement trophys"/>
-    <roomname english="Laboratory" translation="" explanation="One of the stages"/>
-    <roomname english="The Tower" translation="" explanation="One of the stages"/>
-    <roomname english="Warp Zone" translation="" explanation="One of the stages"/>
-    <roomname english="Space Station" translation="" explanation="One of the stages"/>
-    <roomname english="Outside Dimension VVVVVV" translation="" explanation="For rare rooms outside the normal area"/>
-    <roomname english="???" translation="" explanation=""/>
-    <roomname english="The Super Gravitron" translation="" explanation="An expanded version of the room at 53, 50"/>
-    <roomname english="I Can&apos;t Believe You Got This Far" translation="" explanation="If you&apos;re playing No Death Mode, the room Prize for the Reckless has this roomname instead (the room is altered to make it possible to do this section without dying)"/>
-    <roomname english="Imagine Spikes There, if You Like" translation="" explanation="If you&apos;re playing a time trial, the room Prize for the Reckless has this roomname instead (the room is altered to make it possible to do this section without dying)"/>
+    <roomname english="Outer Space" translation="우주 공간" explanation="Literally Outer Space"/>
+    <roomname english="Dimension VVVVVV" translation="VVVVVV 차원" explanation="The overall area that the game takes place in."/>
+    <roomname english="The Ship" translation="우주선" explanation="The dimension exploring spaceship"/>
+    <roomname english="Secret Lab" translation="비밀 실험실" explanation="An endgame section containing achievement trophys"/>
+    <roomname english="Laboratory" translation="실험실" explanation="One of the stages"/>
+    <roomname english="The Tower" translation="타워" explanation="One of the stages"/>
+    <roomname english="Warp Zone" translation="워프존" explanation="One of the stages"/>
+    <roomname english="Space Station" translation="우주 정거장" explanation="One of the stages"/>
+    <roomname english="Outside Dimension VVVVVV" translation="VVVVVV 차원 외부" explanation="For rare rooms outside the normal area"/>
+    <roomname english="???" translation="???" explanation=""/>
+    <roomname english="The Super Gravitron" translation="슈퍼 그래비트론" explanation="An expanded version of the room at 53, 50"/>
+    <roomname english="I Can&apos;t Believe You Got This Far" translation="여기까지 오다니 믿을 수 없어" explanation="If you&apos;re playing No Death Mode, the room Prize for the Reckless has this roomname instead (the room is altered to make it possible to do this section without dying)"/>
+    <roomname english="Imagine Spikes There, if You Like" translation="스파이크를 연상해 보라" explanation="If you&apos;re playing a time trial, the room Prize for the Reckless has this roomname instead (the room is altered to make it possible to do this section without dying)"/>
     <!-- - -->
     <roomname english="Rear Window" translation="" explanation="Named after the Hitchcock film (The final stage has room names that suggest old black and white TV shows.)"/>
     <roomname english="Rear Vindow" translation="" explanation=""/>
