@@ -740,12 +740,12 @@ DIMENSIONAL STABILISER OFFLINE" translation="-= 경고 =-
         <dialogue speaker="blue" english="Oh no! We&apos;re trapped!" translation="안 돼! 갇혔어!"/>
         <dialogue speaker="yellow" english="Oh dear..." translation="이런…"/>
         <dialogue speaker="player" english="Hmm... how should we get out of this?" translation="흠… 어떻게 빠져나갈까?"/>
-        <dialogue speaker="player" english="COMBINE!" translation="결합!" case="1"/>
-        <dialogue speaker="purple" english="COMBINE!" translation="결합!" case="2"/>
-        <dialogue speaker="yellow" english="COMBINE!" translation="결합!" case="3"/>
-        <dialogue speaker="red" english="COMBINE!" translation="결합!" case="4"/>
-        <dialogue speaker="green" english="COMBINE!" translation="결합!" case="5"/>
-        <dialogue speaker="blue" english="COMBINE!" translation="결합!" case="6"/>
+        <dialogue speaker="player" english="COMBINE!" translation="합체!" case="1"/>
+        <dialogue speaker="purple" english="COMBINE!" translation="합체!" case="2"/>
+        <dialogue speaker="yellow" english="COMBINE!" translation="합체!" case="3"/>
+        <dialogue speaker="red" english="COMBINE!" translation="합체!" case="4"/>
+        <dialogue speaker="green" english="COMBINE!" translation="합체!" case="5"/>
+        <dialogue speaker="blue" english="COMBINE!" translation="합체!" case="6"/>
         <dialogue speaker="purple" english="Or, you know... we could have just warped back to the ship..." translation="아니면… 그냥 우주선으로 돌아갈 수도 있었어…"/>
         <dialogue speaker="green" english="Wow! What is this?" translation="와우! 이게 뭐지?"/>
         <dialogue speaker="yellow" english="It looks like another laboratory!" translation="또 다른 실험실 같아!"/>
