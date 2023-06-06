@@ -2,7 +2,7 @@ How to Build
 ------------
 VVVVVV's official desktop versions are built with the following environments:
 
-- Windows: Visual Studio 2010
+- Windows: Visual Studio 2019
 - macOS: Xcode CLT, currently targeting 10.9 SDK
 - GNU/Linux: CentOS 7
 
@@ -28,7 +28,7 @@ To generate the projects on Windows:
 # Put your SDL2 folders somewhere nice!
 mkdir flibitBuild
 cd flibitBuild
-cmake -A Win32 -G "Visual Studio 10 2010" .. -DSDL2_INCLUDE_DIRS="C:\SDL2-2.24.0\include" -DSDL2_LIBRARIES="C:\SDL2-2.24.0\lib\x86\SDL2;C:\SDL2-2.24.0\lib\x86\SDL2main"
+cmake -A Win32 -G "Visual Studio 10 2010" .. -DSDL2_INCLUDE_DIRS="C:\SDL2-2.24.0\include" -DSDL2_LIBRARIES="C:\SDL2-2.24.0\lib\x86\SDL2.lib;C:\SDL2-2.24.0\lib\x86\SDL2main.lib"
 ```
 
 Note that on some systems, the `SDL2_LIBRARIES` list on Windows may need
@@ -39,10 +39,6 @@ Also note that if you're using a Visual Studio later than 2010, you will need to
 change the `-G` string accordingly; otherwise you will get a weird cryptic
 error. Refer to the list below:
 
-- VS 2012: `"Visual Studio 11 2012"`
-- VS 2013: `"Visual Studio 12 2013"`
-- VS 2015: `"Visual Studio 14 2015"`
-- VS 2017: `"Visual Studio 15 2017"`
 - VS 2019: `"Visual Studio 16 2019"`
 - VS 2022: `"Visual Studio 17 2022"`
 
