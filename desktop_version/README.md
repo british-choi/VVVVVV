@@ -28,7 +28,7 @@ To generate the projects on Windows:
 # Put your SDL2 folders somewhere nice!
 mkdir flibitBuild
 cd flibitBuild
-cmake -A Win32 -G "Visual Studio 10 2010" .. -DSDL2_INCLUDE_DIRS="C:\SDL2-2.24.0\include" -DSDL2_LIBRARIES="C:\SDL2-2.24.0\lib\x86\SDL2.lib;C:\SDL2-2.24.0\lib\x86\SDL2main.lib"
+cmake -A Win32 -G "Visual Studio 16 2019" .. -DSDL2_INCLUDE_DIRS="C:\SDL2-2.24.0\include" -DSDL2_LIBRARIES="C:\SDL2-2.24.0\lib\x86\SDL2.lib;C:\SDL2-2.24.0\lib\x86\SDL2main.lib"
 ```
 
 Note that on some systems, the `SDL2_LIBRARIES` list on Windows may need
